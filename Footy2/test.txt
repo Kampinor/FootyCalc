@@ -1,0 +1,75 @@
+Saturday May 27, 2023, 15:30 (venue time)
+Fußball-Bundesliga (Matchweek 34)
+RB Leipzig vs. Schalke 04
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Christopher Nkunku	18	fr FRA	FW	25-194	90	2	1	0	0	5	4	1	0	22	0	0	0	1.0	1.0	0.6	6	3	12	14	85.7	3	20	2	4	4
+Timo Werner	11	de GER	FW	27-082	60	0	0	0	0	1	1	0	0	13	1	0	0	0.2	0.2	0.0	0	0	6	10	60.0	0	7	0	0	0
+   Yussuf Poulsen	9	dk DEN	FW	28-346	30	1	0	0	0	3	1	0	0	26	2	0	0	0.3	0.3	0.0	0	0	9	16	56.3	2	14	2	0	0
+Emil Forsberg	10	se SWE	AM	31-216	67	0	0	0	0	0	0	0	0	29	0	0	2	0.0	0.0	0.1	3	0	21	25	84.0	4	18	0	0	0
+   Dominik Szoboszlai	17	hu HUN	AM	22-214	23	0	0	0	0	3	1	0	0	17	1	0	1	0.2	0.2	0.0	2	0	11	13	84.6	2	9	1	0	0
+Dani Olmo	7	es ESP	AM	25-020	90	0	1	0	0	0	0	0	0	51	0	0	2	0.0	0.0	1.2	6	0	37	45	82.2	5	37	3	0	0
+Amadou Haidara	8	ml MLI	DM	25-116	45	0	0	0	0	1	1	1	0	27	0	1	1	0.1	0.1	0.0	2	0	18	20	90.0	2	13	1	1	1
+   Kevin Kampl	44	si SVN	DM	32-230	45	0	0	0	0	0	0	0	0	26	1	1	0	0.0	0.0	0.1	3	0	19	23	82.6	2	18	3	1	1
+Konrad Laimer	27	at AUT	DM	26-000	60	1	0	0	0	2	1	0	0	44	3	1	3	0.8	0.8	0.0	1	1	21	31	67.7	0	27	2	3	2
+   Xaver Schlager	24	at AUT	DM	25-241	30	0	0	0	0	0	0	0	0	19	0	0	0	0.0	0.0	0.1	3	1	13	17	76.5	4	10	1	0	0
+Marcel Halstenberg	23	de GER	LB	31-242	60	0	0	0	0	1	1	0	0	40	3	1	0	0.1	0.1	0.0	3	0	21	30	70.0	2	25	3	1	1
+   David Raum	22	de GER	LB	25-035	30	0	0	0	0	1	1	0	0	22	0	0	2	0.0	0.0	0.0	0	0	13	17	76.5	1	14	0	0	0
+Willi Orban	4	hu HUN	CB	30-205	90	0	0	0	0	1	0	0	0	56	2	1	1	0.0	0.0	0.0	0	0	34	41	82.9	3	31	0	1	1
+Lukas Klostermann	16	de GER	CB	26-358	90	0	0	0	0	0	0	0	0	53	0	2	1	0.0	0.0	0.0	0	0	37	46	80.4	1	38	0	0	0
+Mohamed Simakan	2	fr FRA	RB	23-024	90	0	0	0	0	0	0	0	0	51	1	1	4	0.0	0.0	0.0	0	0	24	38	63.2	0	23	1	2	0
+Ørjan Nyland	13	no NOR	GK	32-259	90	0	1	0	0	0	0	0	0	72	0	0	0	0.0	0.0	0.1	2	2	48	69	69.6	0	53	0	0	0
+16 Players					990	4	3	0	0	18	11	2	0	568	14	8	17	2.7	2.7	2.2	31	7	344	455	75.6	31	357	19	13	10
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Sebastian Polter	40	de GER	FW	32-056	90	0	0	0	0	1	0	1	0	26	0	1	0	0.1	0.1	0.1	2	0	9	22	40.9	1	15	1	0	0
+Marius Bülter	11	de GER	LW	30-059	90	0	0	0	0	4	1	0	0	45	0	0	0	0.4	0.4	0.3	8	0	17	33	51.5	3	30	5	4	2
+Rodrigo Zalazar	10	uy URU	RW	23-288	55	0	1	0	0	3	1	0	0	30	0	0	0	0.2	0.2	0.2	3	1	16	21	76.2	2	24	1	3	2
+   Tobias Mohr	29	de GER	RW	27-276	35	0	0	0	0	1	0	0	0	13	1	0	1	0.0	0.0	0.0	0	0	3	8	37.5	0	7	0	0	0
+Dominick Drexler	24	de GER	AM,DM	33-001	90	0	0	0	0	0	0	0	0	48	0	1	1	0.0	0.0	0.2	3	0	35	43	81.4	4	33	1	3	1
+Alex Král	30	cz CZE	DM	25-008	90	0	0	0	0	1	0	0	0	49	0	2	0	0.0	0.0	0.1	3	0	33	42	78.6	4	35	2	2	2
+Danny Latza	8	de GER	DM	33-171	74	0	0	0	0	1	0	0	0	48	0	1	1	0.1	0.1	0.0	1	0	34	41	82.9	5	31	4	0	0
+   Kenan Karaman	19	tr TUR	AM	29-083	16	0	0	0	0	1	1	0	0	8	1	1	1	0.1	0.1	0.0	1	0	6	6	100.0	0	4	0	0	0
+Henning Matriciani	41	de GER	LB	23-074	69	0	0	0	0	1	0	0	0	37	1	1	0	0.0	0.0	0.1	4	1	18	30	60.0	4	18	2	0	0
+   Thomas Ouwejan	2	nl NED	LB	26-239	21	0	0	0	0	0	0	0	0	17	1	0	0	0.0	0.0	0.0	0	0	3	9	33.3	0	8	0	1	0
+Marcin Kamiński	35	pl POL	CB	31-132	90	1	0	0	0	1	1	0	0	56	1	0	1	0.2	0.2	0.1	1	0	43	50	86.0	7	29	0	0	0
+Sepp van den Berg	5	nl NED	CB	21-158	90	0	0	0	0	0	0	0	0	46	0	0	1	0.0	0.0	0.0	0	0	31	41	75.6	1	33	0	0	0
+Cédric Brunner	27	ch SUI	RB	29-099	90	0	0	0	0	1	0	1	0	59	2	3	0	0.1	0.1	0.2	3	0	40	50	80.0	4	28	4	0	0
+Ralf Fährmann	1	de GER	GK	34-242	90	0	0	0	0	0	0	0	0	54	0	0	0	0.0	0.0	0.0	0	0	29	45	64.4	0	37	0	0	0
+14 Players					990	1	1	0	0	15	4	2	0	536	7	10	6	1.2	1.2	1.2	29	2	317	441	71.9	35	332	20	13	7
+Saturday May 27, 2023, 15:30 (venue time)
+Bochum vs. Bayer Leverkusen
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Philipp Hofmann	33	de GER	FW	30-058	80	0	0	0	0	4	1	1	0	41	1	0	0	0.3	0.3	0.0	1	0	15	26	57.7	3	11	0	1	0
+   Moritz Broschinski	29	de GER	FW	22-246	10	0	0	0	0	1	1	0	0	6	0	0	0	0.1	0.1	0.0	1	1	1	4	25.0	0	3	1	1	0
+Christopher Antwi-Adjei	22	gh GHA	LW	29-109	90	0	0	0	0	1	0	0	0	52	4	1	0	0.0	0.0	0.2	4	1	27	39	69.2	3	16	2	3	0
+Takuma Asano	11	jp JPN	RW	28-198	80	1	1	0	0	2	1	0	0	34	1	0	2	0.3	0.3	0.5	2	1	13	19	68.4	3	15	3	2	1
+   Simon Zoller	9	de GER	RW	31-335	10	0	1	0	0	0	0	1	0	5	0	0	0	0.0	0.0	0.1	2	1	4	5	80.0	1	1	0	0	0
+Philipp Förster	10	de GER	LM	28-112	55	1	0	0	0	1	1	1	0	34	2	0	0	0.4	0.4	0.2	4	0	19	22	86.4	5	12	1	4	1
+   Patrick Osterhage	6	de GER	LM	23-115	35	0	0	0	0	0	0	1	0	12	0	1	3	0.0	0.0	0.1	1	0	5	6	83.3	2	2	0	0	0
+Anthony Losilla	8	fr FRA	CM	37-078	90	0	0	0	0	1	0	0	0	42	5	4	3	0.0	0.0	0.0	0	0	20	28	71.4	4	6	0	1	0
+Kevin Stöger	7	at AUT	RM	29-273	88	1	1	0	0	1	1	1	0	68	2	0	2	0.1	0.1	0.2	4	2	39	58	67.2	12	30	4	2	1
+   Vassilis Lambropoulos	24	gr GRE	RM	33-057	2	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0	0	0	0		0	0	0	0	0
+Dominique Heintz	30	de GER	LB	29-285	56	0	0	0	0	0	0	0	0	23	2	1	1	0.0	0.0	0.0	1	0	17	19	89.5	1	10	0	0	0
+   Keven Schlotterbeck	31	de GER	LB	26-029	34	0	0	0	0	0	0	0	0	10	1	1	0	0.0	0.0	0.0	0	0	3	8	37.5	1	1	1	0	0
+Erhan Mašović	4	rs SRB	CB	24-186	90	0	0	0	0	0	0	0	0	41	2	1	0	0.0	0.0	0.0	1	0	30	33	90.9	4	17	0	0	0
+Ivan Ordets	20	ua UKR	CB	30-323	90	0	0	0	0	1	0	0	0	52	2	2	1	0.0	0.0	0.0	0	0	34	44	77.3	2	15	0	0	0
+Saidy Janko	23	gm GAM	RB	27-217	90	0	0	0	0	0	0	0	0	48	4	1	1	0.0	0.0	0.0	0	0	22	34	64.7	1	13	2	0	0
+Manuel Riemann	1	de GER	GK	34-260	90	0	0	0	0	0	0	0	0	42	1	0	0	0.0	0.0	0.0	0	0	24	38	63.2	0	15	0	0	0
+16 Players					990	3	3	0	0	12	5	5	0	510	27	12	13	1.3	1.3	1.3	21	6	273	383	71.3	42	167	14	14	3
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Sardar Azmoun	9	ir IRN	FW,RW	28-146	90	0	0	0	0	3	1	0	0	30	0	0	0	0.2	0.2	0.0	4	0	12	23	52.2	2	14	1	1	1
+Moussa Diaby	19	fr FRA	LW,LM	23-324	89	0	0	0	0	3	0	1	0	31	0	0	1	0.2	0.2	0.0	1	0	16	21	76.2	3	17	1	3	2
+   Noah Mbamba	18	be BEL	LM	18-142	1	0	0	0	0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0	0	0	0		0	0	0	0	0
+Florian Wirtz	27	de GER	RW,CM,LM	20-024	90	0	0	0	0	1	1	1	0	67	0	0	1	0.0	0.0	0.1	4	0	37	58	63.8	5	39	4	6	2
+Nadiem Amiri	11	de GER	LM,CM	26-212	77	0	0	0	0	2	0	0	0	43	2	0	0	0.1	0.1	0.1	3	0	22	34	64.7	2	19	3	3	2
+   Adam Hložek	23	cz CZE	LW	20-306	13	0	0	0	0	0	0	0	0	3	0	0	0	0.0	0.0	0.0	0	0	2	2	100.0	0	3	1	0	0
+Exequiel Palacios	25	ar ARG	RM,CM	24-234	90	0	0	0	0	1	0	1	0	61	2	0	1	0.0	0.0	0.0	2	0	36	52	69.2	4	43	1	5	3
+Amine Adli	21	fr FRA	RM	23-017	7	0	0	0	0	0	0	0	1	3	0	0	0	0.0	0.0	0.0	1	0	2	3	66.7	0	3	0	0	0
+Mitchel Bakker	5	nl NED	LB,CB	22-341	90	0	0	0	0	0	0	1	0	56	1	0	0	0.0	0.0	0.0	0	0	29	44	65.9	3	33	0	5	1
+Edmond Tapsoba	12	bf BFA	CB	24-114	90	0	0	0	0	0	0	1	0	56	1	0	2	0.0	0.0	0.0	1	0	29	48	60.4	3	41	1	2	1
+Jonathan Tah	4	de GER	CB	27-105	90	0	0	0	0	0	0	0	0	49	2	0	2	0.0	0.0	0.0	1	0	23	34	67.6	3	16	1	2	2
+Jeremie Frimpong	30	nl NED	RB,RM	22-168	90	0	0	0	0	1	0	0	0	45	3	2	1	0.3	0.3	0.1	2	0	24	29	82.8	0	26	2	4	0
+Lukáš Hrádecký	1	fi FIN	GK	33-184	90	0	0	0	0	0	0	0	0	30	0	0	0	0.0	0.0	0.0	0	0	17	28	60.7	0	13	0	0	0
+13 Players					907	0	0	0	0	11	2	5	1	474	11	2	8	0.8	0.8	0.4	19	0	249	376	66.2	25	267	15	31	14
+

@@ -1,0 +1,10 @@
+﻿  Footy2.cpp
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(66,20): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(81,30): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(131,25): warning C4805: "==": unsichere Kombination von Typ "int" mit Typ "bool" in einer Operation
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(149,26): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(151,7): warning C4101: "cCheck": Unreferenzierte lokale Variable
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(185,39): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(188,34): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\kampi\source\repos\Footy2\Footy2\strfuncsc++.cpp(137): warning C4715: "CheckifNumeric": Nicht alle Codepfade geben einen Wert zurück.
+  Footy2.vcxproj -> C:\Users\kampi\source\repos\Footy2\x64\Debug\Footy2.exe

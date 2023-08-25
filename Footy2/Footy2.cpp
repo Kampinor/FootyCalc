@@ -28,7 +28,7 @@ int GetFromDB();
 string GetPlayerData(string strline,string strTeams);
 string GetTeamID(string strTeamName);
 string GetTeamData(string strline, string strTeams, int iRound);
-string GetResultSQL(string strTeamDataH, string strTeamDataA);
+string GetResultSQL(string strTeamDataH, string strTeamDataA, int iMatch);
 
 //Vars
 int iMatch = 0;
@@ -64,7 +64,7 @@ int main() {
 int ReadData() {
 	string strline, strPath,strAkt, strTeams,strSQLResults;
 	string strTeamDataH, strTeamDataA, strResultSQL, strPlayerSQL;
-	int itest = 0;
+	int iMatchID = -1;
     strPath = "test.txt";
 	int iAllPlayers = 0;
 	int iAktLine = 0, iAktPlayer = 0,iRound = 0;
@@ -90,12 +90,9 @@ int ReadData() {
 			}
 
 			if (instr(0,strline,"vs") > -1) {
-				//iRound = 0;
+				iMatchID++;
 				
-				iNext++;
-				if (iNext == 2) {
-					cout << "bext" << endl;
-				}
+
 				// Teams abgreifen
 				strTeams = GetTeams(strline);
 				//vector <string> vTeams = Split(strTeams, ';');
@@ -119,7 +116,7 @@ int ReadData() {
 				}
 				else {
 					strTeamDataA = GetTeamData(strline, strTeams, iRound);
-					strSQLResults = GetResultSQL(strTeamDataH, strTeamDataA);
+					strSQLResults = GetResultSQL(strTeamDataH, strTeamDataA,iMatchID);
 					strSkript.push_back(strSQLResults);
 					//strResultSQL = GetResultSQL(strTeamDataH, strTeamDataA);
 					iRound = 0;
@@ -398,18 +395,31 @@ string GetTeamData(string strline, string strTeams,int iRound) { //iRound für H
 
 }
 
-string GetResultSQL(string strTeamDataH, string strTeamDataA) { //strTeamDataH ist leer
-	iMatch += 1;
+string GetResultSQL(string strTeamDataH, string strTeamDataA, int iMatch) { //strTeamDataH ist leer
 	string strSQL;
-	//Season ID/League ID
-	// Trainer IDs bekommen später genauso wie team id in map einlesen
+	//Season ID/League ID dynamisch
 	vector<string> strHeim = Split(strTeamDataH, ';');
 	vector<string> strGast = Split(strTeamDataA, ';');
-	strSQL = "INSERT INTO Results Values (" + to_string(iMatch) + "," + GetTeamID(strHeim[0]) + "," + GetTeamID(strGast[0]) + ",0,0" + ")";
+
+	// Trainer IDs bekommen später genauso wie team id in map einlesen
+	vector<string> strCoaches = ReadstrVecFromFile("Coaches.csv");
+	string strCa
+
+	for (int i = 0; i < strCoaches.size(); i++) {
+		vector<string> strSplit = Split(strTeamDataH, ';');
+		if (strSplit[2] == GetTeamID(strHeim[0])) {
+
+		}
+	}
+
+	//SQL bauen
+	strSQL = "INSERT INTO Results Values (" + to_string(iMatch) + "," + GetTeamID(strHeim[0]) + "," + GetTeamID(strGast[0]) + ",0,0," + strHeim[1] + "," + strGast[1] + "," + strHeim[2] + "," + strGast[2] ;//StadID //Matchday ")";
 	cout << strSQL << endl;
 	return strSQL;
 
 }
+
+
 
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"

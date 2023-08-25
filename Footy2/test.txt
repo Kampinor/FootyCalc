@@ -1,6 +1,7 @@
 Saturday May 27, 2023, 15:30 (venue time)
 Fußball-Bundesliga (Matchweek 34)
 RB Leipzig vs. Schalke 04
+Manager: Marco Rose	Manager: Thomas Reis
 Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
 Christopher Nkunku	18	fr FRA	FW	25-194	90	2	1	0	0	5	4	1	0	22	0	0	0	1.0	1.0	0.6	6	3	12	14	85.7	3	20	2	4	4
 Timo Werner	11	de GER	FW	27-082	60	0	0	0	0	1	1	0	0	13	1	0	0	0.2	0.2	0.0	0	0	6	10	60.0	0	7	0	0	0
@@ -37,6 +38,7 @@ Ralf Fährmann	1	de GER	GK	34-242	90	0	0	0	0	0	0	0	0	54	0	0	0	0.0	0.0	0.0	0	0	29
 14 Players					990	1	1	0	0	15	4	2	0	536	7	10	6	1.2	1.2	1.2	29	2	317	441	71.9	35	332	20	13	7
 Saturday May 27, 2023, 15:30 (venue time)
 Bochum vs. Bayer Leverkusen
+Manager: Thomas Letsch	Manager: Xabi Alonso
 	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
 Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
 Philipp Hofmann	33	de GER	FW	30-058	80	0	0	0	0	4	1	1	0	41	1	0	0	0.3	0.3	0.0	1	0	15	26	57.7	3	11	0	1	0

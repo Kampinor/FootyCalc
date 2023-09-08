@@ -66,7 +66,7 @@ vector<string> ReadstrVecFromFile(string strFilename) {
 
 		// Print the content of the vector
 		for (const auto& str :strcontent) {
-			cout << str << std::endl;
+			//cout << str << std::endl;
 		}
 
 		return strcontent;

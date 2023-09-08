@@ -23,7 +23,7 @@ using namespace std;
 string GetMatchDate(string strline);
 string GetMatchDay(string strline);
 string GetTeams(string strline);
-int ReadData();
+string ReadData(string strPath,int iMatch);
 int GetFromDB();
 string GetPlayerData(string strline,string strTeams);
 string GetTeamID(string strTeamName);
@@ -41,11 +41,21 @@ int main() {
 	cout << "Bitte Modus waehlen" << endl;
 	cout << "(0) Daten einlesen (1) Quoten anzeigen (2) Abbruch" << endl;
 	int iWahl = 0, iErg = 0;
+	string strPath, strSQLResults;
+	vector<string> strSkript;
+	int iMatch = 0; 
 	cin >> iWahl; 
 	switch (iWahl)
 	{
 	case 0:
-		ReadData();
+		for (int i = 1; i < 10; i++) {
+			strPath = "BL_2023_2024//BL-2023-2024-01-0" + to_string(i) + ".txt";
+			//iMatch++;
+			strSQLResults = ReadData(strPath, i);
+			strSkript.push_back(strSQLResults);
+		}
+		ExportinCSV(strSkript, "test2.txt");
+		//ReadData();
 		break;
 	case 1:
 		//GetQuotes();
@@ -61,12 +71,16 @@ int main() {
 
 }
 
-int ReadData() {
-	string strline, strPath,strAkt, strTeams,strSQLResults;
+string ReadData(string strPath, int iMatch) {
+	string strline,strAkt, strTeams,strSQLResults;
 	string strTeamDataH, strTeamDataA, strResultSQL, strPlayerSQL;
 	string strMLiga;
-	int iMatchID = -1;
-    strPath = "test.txt";
+	int iMatchID = iMatch;
+    //strPath = "test.txt";
+	//Dynamisch
+	//cout << "Bitte Dateinamen eingeben" << endl;
+	//cin >> strPath;
+	//strPath = "BL_2023_2024//" + strPath + ".txt";
 	int iAllPlayers = 0;
 	int iAktLine = 0, iAktPlayer = 0,iRound = 0;
 	vector <string> strSplit;
@@ -90,12 +104,15 @@ int ReadData() {
 				//cout << strMLiga << endl;
 			}
 
-			if (instr(0,strline,"vs") > -1) {
+			if (instr(0,strline,"vs") > -1 ) {
 				iMatchID++;
 				
 
 				// Teams abgreifen
-				strTeams = GetTeams(strline);
+				if (instr(0, strline, "Report") == -1) {
+					strTeams = GetTeams(strline);
+				}
+				
 				//vector <string> vTeams = Split(strTeams, ';');
 				//string strIDH = vTeams[0];
 				//string strIDA = vTeams[1];
@@ -118,7 +135,7 @@ int ReadData() {
 				else {
 					strTeamDataA = GetTeamData(strline, strTeams, iRound);
 					strSQLResults = GetResultSQL(strTeamDataH, strTeamDataA,iMatchID,strMLiga);
-					strSkript.push_back(strSQLResults);
+					//strSkript.push_back(strSQLResults);
 					//strResultSQL = GetResultSQL(strTeamDataH, strTeamDataA);
 					iRound = 0;
 				}
@@ -153,7 +170,7 @@ int ReadData() {
 			}
 			
 
-			if (instr(0, strline, "Nation") > -1) { //Playerliste Start
+			if (instr(0, strline, "Player 	# 	Nation") > -1) { //Playerliste Start
 				iAllPlayers = 1;
 			}
 			//strAkt =
@@ -162,12 +179,13 @@ int ReadData() {
 			
 		}
 		myfile.close();
-		ExportinCSV(strSkript, "test2.txt");
+		//ExportinCSV(strSkript, "test2.txt");
+		return strSQLResults;
 	}
 
 	else cout << "Unable to open file";
 
-	return 0;
+	return "";
 
 }
 
@@ -198,6 +216,13 @@ string GetMatchDay(string strline) {
 string GetTeams(string strline) {
 	vector <string> strSplit;
 	strSplit = Split(strline, ' ');
+	//if (instr(0, strline, "Union") > -1) {
+	//	cout << "test" << endl;
+	//}
+	//if (strSplit.size() == 0) {
+		//strSplit = Split(strline, ' ');
+	//}
+	
 	
 	int iVS = -1;
 	string strAkt;
@@ -226,6 +251,10 @@ string GetTeams(string strline) {
 	}
 	if (strSplit.size() == 4 && iVS == 2) { // Bayer 04 vs Schalke
 		strTeams = strSplit[0] + " " + strSplit[1] + ";" + strSplit[3];
+		return strTeams;
+	}
+	if (strSplit.size() == 3 && iVS == 1) { // Bayer vs Schalke
+		strTeams = strSplit[0] + ";" + strSplit[2];
 		return strTeams;
 	}
 	else {
@@ -293,7 +322,7 @@ string GetTeamID(string strTeamName) {
 	if (strTeamName == "Union Berlin") {
 		return "4";
 	}
-	if (strTeamName == "SC Freiburg") {
+	if (strTeamName == "SC Freiburg" || strTeamName == "Freiburg") {
 		return "5";
 	}
 	if (strTeamName == "Bayer Leverkusen") {
@@ -302,13 +331,13 @@ string GetTeamID(string strTeamName) {
 	if (strTeamName == "Wolfsburg") {
 		return "7";
 	}
-	if (strTeamName == "Mainz") {
+	if (strTeamName == "Mainz" || strTeamName == "Mainz 05") {
 		return "8";
 	}
 	if (strTeamName == "Köln") {
 		return "9";
 	}
-	if (strTeamName == "Gladbach") {
+	if (strTeamName == "Gladbach" || strTeamName == "Mönchengladbach") {
 		return "10";
 	}
 	if (strTeamName == "Hoffenheim") {
@@ -332,7 +361,7 @@ string GetTeamID(string strTeamName) {
 	if (strTeamName == "Schalke 04") {
 		return "17";
 	}
-	if (strTeamName == "Darmstadt") {
+	if (strTeamName == "Darmstadt" || strTeamName == "Darmstadt 98") {
 		return "18";
 	}
 	if (strTeamName == "Heidenheim") {
@@ -417,12 +446,13 @@ string GetResultSQL(string strTeamDataH, string strTeamDataA, int iMatch, string
 		//Korrigieren
 	}
 
-	strMLiga //muss gesplittet werden
+	//strMLiga //muss gesplittet werden
+	vector<string> strMDay = Split(strMLiga, ';');
 
 	//SQL bauen
 	strSQL = "INSERT INTO Results Values (" + to_string(iMatch) + "," + GetTeamID(strHeim[0]) + "," + GetTeamID(strGast[0]) + ",0,0,"; //GameID/TeamID/Season,Liga
 	strSQL= strSQL +strCH + "," + strCA + "," + strHeim[1] + "," + strGast[1] + "," + strHeim[2] + "," + strGast[2]; //Trainer/Tore/xG
-	strSQL= strSQL + GetTeamID(strHeim[0]) + "," + strMLiga + ")"; //Stad-ID Dynamiscch!/Spieltag
+	strSQL= strSQL + GetTeamID(strHeim[0]) + "," + strMDay[1] + ")"; //Stad-ID Dynamiscch!/Spieltag
 	cout << strSQL << endl;
 	return strSQL;
 

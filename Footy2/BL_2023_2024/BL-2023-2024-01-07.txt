@@ -1,0 +1,323 @@
+
+Put your football knowledge to the test with our new daily trivia game, Immaculate Footy.
+Dortmund vs. Köln Match Report – Saturday August 19, 2023
+Fußball-Bundesliga (Matchweek 1)
+Dortmund Club Crest
+Dortmund
+1
+1.8
+1-0-0
+Prev Match Next Match
+Manager: Edin Terzić
+Captain: Emre Can
+Köln Club Crest
+Köln
+0
+1.2
+0-0-1
+Prev Match Next Match
+Manager: Steffen Baumgart
+Captain: Florian Kainz
+Saturday August 19, 2023, 18:30 (venue time)
+Fußball-Bundesliga (Matchweek 1)
+Dortmund vs. Köln
+ 
+Attendance: 81,365
+Venue: Signal Iduna Park, Dortmund
+Officials: Deniz Aytekin (Referee) · Eduard Beitinger (AR1) · Martin Thomsen (AR2) · Florian Heft (4th) · Johann Pfeifer (VAR)
+Donyell Malen · 88’
+football pitch for squad formations
+1
+5
+9
+11
+15
+19
+20
+21
+23
+25
+26
+1
+2
+4
+6
+7
+9
+11
+17
+18
+24
+27
+Dortmund (4-2-3-1)
+1	Gregor Kobel
+5	Ramy Bensebaini
+9	Sébastien Haller
+11	Marco Reus
+15	Mats Hummels
+19	Julian Brandt
+20	Marcel Sabitzer
+21	Donyell Malen
+23	Emre Can
+25	Niklas Süle
+26	Julian Ryerson
+Bench
+33	Alexander Meyer
+4	Nico Schlotterbeck
+6	Salih Özcan
+8	Felix Nmecha
+10	Thorgan Hazard
+17	Marius Wolf
+18	Youssoufa Moukoko
+27	Karim Adeyemi
+43	Jamie Bynoe-Gittens
+Köln (4-2-3-1)
+1	Marvin Schwäbe
+2	Benno Schmitz
+4	Timo Hübers
+6	Eric Martel
+7	Dejan Ljubicic
+9	Luca Waldschmidt
+11	Florian Kainz
+17	Leart Paqarada
+18	Rasmus Carstensen
+24	Julian Chabot
+27	Davie Selke
+Bench
+20	Philipp Pentke
+3	Kristian Pedersen
+8	Denis Huseinbasic
+15	Luca Kilian
+19	Dimitris Limnios
+22	Jacob Christensen
+23	Sargis Adamyan
+35	Max Finkgräfe
+47	Mathias Olesen
+Match Summary
+Kick Off
+Half Time
+ 52’
+0:0	
+Sargis Adamyan
+for Davie Selke
+Köln Club Crest
+ 59’
+0:0	
+Youssoufa Moukoko
+for Sébastien Haller
+Dortmund Club Crest
+ 59’
+0:0	
+Felix Nmecha
+for Emre Can
+Dortmund Club Crest
+ 66’
+0:0	
+Max Finkgräfe
+for Luca Waldschmidt
+Köln Club Crest
+ 66’
+0:0	
+Mathias Olesen
+for Florian Kainz
+Köln Club Crest
+ 70’
+0:0	
+Karim Adeyemi
+for Marco Reus
+Dortmund Club Crest
+ 84’
+0:0	
+Marius Wolf
+for Ramy Bensebaini
+Dortmund Club Crest
+ 84’
+0:0	
+Thorgan Hazard
+for Julian Ryerson
+Dortmund Club Crest
+ 88’
+1:0	
+Donyell Malen
+Assist: Felix Nmecha
+Dortmund Club Crest
+90+1’
+1:0	
+Donyell Malen
+Dortmund Club Crest
+90+1’
+1:0	
+Luca Kilian
+for Rasmus Carstensen
+Köln Club Crest
+Team Stats
+Dortmund Dortmund Club Crest
+	Köln Club Crest
+Köln
+Possession
+66%
+	
+34%
+Passing Accuracy
+649 of 746 — 87%
+	
+74% — 288 of 390
+Shots on Target
+2 of 13 — 15%
+	
+36% — 4 of 11
+Saves
+4 of 4 — 100%
+	
+50% — 1 of 2
+Cards
+	
+Dortmund
+ 
+Köln
+13
+Fouls
+11
+6
+Corners
+3
+18
+Crosses
+20
+862
+Touches
+510
+Dortmund
+ 
+Köln
+11
+Tackles
+20
+10
+Interceptions
+12
+15
+Aerials Won
+14
+16
+Clearances
+23
+Dortmund
+ 
+Köln
+1
+Offsides
+2
+7
+Goal Kicks
+2
+20
+Throw Ins
+24
+60
+Long Balls
+47
+Dortmund Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Sébastien Haller	9	ci CIV	FW	29-058	58	0	0	0	0	1	0	0	0	15	1	0	0	0.0	0.0	0.0	2	0	7	10	70.0	1	7	0	0	0
+   Youssoufa Moukoko	18	de GER	FW	18-272	32	0	0	0	0	0	0	0	0	5	0	0	0	0.0	0.0	0.0	0	0	4	4	100.0	1	4	0	0	0
+Julian Brandt	19	de GER	LW	27-109	90	0	0	0	0	2	1	0	0	67	1	0	0	0.1	0.1	1.0	8	0	45	57	78.9	7	45	4	8	4
+Donyell Malen	21	nl NED	RW	24-222	90	1	0	0	0	1	1	1	0	55	1	1	0	0.2	0.2	0.0	0	0	25	36	69.4	2	39	2	7	2
+Marco Reus	11	de GER	AM	34-080	69	0	0	0	0	1	0	0	0	29	1	1	1	0.2	0.2	0.7	4	0	17	22	77.3	2	17	0	2	2
+   Karim Adeyemi	27	de GER	AM	21-213	21	0	0	0	0	0	0	0	0	16	0	0	1	0.0	0.0	0.0	0	0	5	9	55.6	0	15	3	3	1
+Emre Can	23	de GER	DM	29-219	58	0	0	0	0	1	0	0	0	47	0	0	2	0.0	0.0	0.1	3	0	38	43	88.4	1	27	0	0	0
+   Felix Nmecha	8	de GER	DM	22-313	32	0	1	0	0	1	0	0	0	20	0	0	0	0.1	0.1	0.2	1	1	15	17	88.2	2	14	0	0	0
+Marcel Sabitzer	20	at AUT	DM	29-155	90	0	0	0	0	1	0	0	0	65	3	0	3	0.0	0.0	0.0	0	0	40	47	85.1	7	35	3	0	0
+Ramy Bensebaini	5	dz ALG	LB	28-125	83	0	0	0	0	0	0	0	0	98	3	3	0	0.0	0.0	0.0	0	0	68	88	77.3	8	69	1	2	2
+   Marius Wolf	17	de GER	RB,LB	28-084	7	0	0	0	0	0	0	0	0	11	0	0	0	0.0	0.0	0.0	0	0	7	9	77.8	1	7	0	1	0
+Mats Hummels	15	de GER	CB	34-246	90	0	0	0	0	4	0	0	0	161	1	4	1	1.3	1.3	0.0	1	0	140	148	94.6	14	137	0	0	0
+Niklas Süle	25	de GER	CB	27-350	90	0	0	0	0	1	0	0	0	145	0	1	1	0.0	0.0	0.0	1	0	129	137	94.2	12	121	1	0	0
+Julian Ryerson	26	no NOR	RB	25-275	83	0	0	0	0	0	0	0	0	83	0	0	1	0.0	0.0	0.0	0	0	69	76	90.8	8	62	2	2	1
+   Thorgan Hazard	10	be BEL	LB	30-143	7	0	0	0	0	0	0	0	0	9	0	0	0	0.0	0.0	0.0	0	0	7	9	77.8	2	4	0	0	0
+Gregor Kobel	1	ch SUI	GK	25-256	90	0	0	0	0	0	0	0	0	36	0	0	0	0.0	0.0	0.0	0	0	33	34	97.1	0	25	0	0	0
+16 Players					990	1	1	0	0	13	2	1	0	862	11	10	10	2.1	2.1	2.0	20	1	649	746	87.0	68	628	16	25	12
+Dortmund Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Gregor Kobel	ch SUI	25-256	90	4	0	4	100.0	1.5	1	1	100.0	27	5	0.0	18.5	7	14.3	23.4	12	0	0.0	0	12.0
+Köln Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Davie Selke	27	de GER	FW	28-211	51	0	0	0	0	1	0	0	0	20	0	0	0	0.2	0.2	0.0	2	0	9	16	56.3	1	11	4	1	1
+   Sargis Adamyan	23	am ARM	FW	30-088	39	0	0	0	0	3	3	0	0	16	1	0	0	0.6	0.6	0.0	2	0	8	10	80.0	4	11	2	1	1
+Luca Waldschmidt	9	de GER	LW,LM	27-092	65	0	0	0	0	0	0	0	0	28	0	0	3	0.0	0.0	0.0	1	0	14	21	66.7	3	14	3	2	1
+   Max Finkgräfe	35	de GER	LM	19-145	25	0	0	0	0	1	0	0	0	23	2	0	0	0.0	0.0	0.1	2	0	7	13	53.8	0	12	3	1	0
+Rasmus Carstensen	18	dk DEN	RW,RM	22-312	89	0	0	0	0	0	0	0	0	35	2	1	3	0.0	0.0	0.6	5	0	18	25	72.0	6	22	3	4	1
+   Luca Kilian	15	de GER	RM	23-352	1	0	0	0	0	0	0	0	0	4	1	0	0	0.0	0.0	0.0	0	0	3	3	100.0	1	0	0	0	0
+Florian Kainz	11	at AUT	AM,FW	30-299	65	0	0	0	0	0	0	0	0	27	0	0	0	0.0	0.0	0.2	4	0	16	23	69.6	4	19	4	1	1
+   Mathias Olesen	47	lu LUX	FW	22-151	25	0	0	0	0	0	0	0	0	9	0	0	0	0.0	0.0	0.0	0	0	9	9	100.0	3	7	1	0	0
+Eric Martel	6	de GER	DM,CM	21-112	90	0	0	0	0	2	0	0	0	45	0	2	2	0.2	0.2	0.0	1	0	26	32	81.3	0	24	0	0	0
+Dejan Ljubicic	7	at AUT	DM,CM	25-315	90	0	0	0	0	2	0	0	0	52	4	3	1	0.1	0.1	0.2	3	0	34	40	85.0	6	28	2	0	0
+Leart Paqarada	17	xk KVX	LB	28-315	90	0	0	0	0	1	1	0	0	55	1	2	1	0.0	0.0	0.0	1	0	29	46	63.0	0	24	3	1	1
+Julian Chabot	24	de GER	CB	25-188	90	0	0	0	0	1	0	0	0	50	4	2	4	0.0	0.0	0.0	0	0	25	28	89.3	0	19	0	1	0
+Timo Hübers	4	de GER	CB	27-030	90	0	0	0	0	0	0	0	0	61	3	2	3	0.0	0.0	0.0	0	0	41	49	83.7	4	29	0	1	1
+Benno Schmitz	2	de GER	RB	28-275	90	0	0	0	0	0	0	0	0	55	2	0	1	0.0	0.0	0.0	0	0	27	46	58.7	2	21	2	0	0
+Marvin Schwäbe	1	de GER	GK	28-116	90	0	0	0	0	0	0	0	0	30	0	0	0	0.0	0.0	0.0	0	0	22	29	75.9	0	17	0	0	0
+15 Players					990	0	0	0	0	11	4	0	0	510	20	12	18	1.3	1.3	1.3	21	0	288	390	73.8	34	258	27	13	7
+Köln Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Marvin Schwäbe	de GER	28-116	90	2	1	1	50.0	0.7	4	11	36.4	27	5	37.0	31.7	2	50.0	37.5	13	0	0.0	0	7.0
+Shots
+
+Both Squads
+Dortmund
+Köln
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+2	Leart Paqarada	Club Crest Köln	0.04	0.13	Saved	26	Left Foot	Deflected	Luca Waldschmidt	Pass (Live)	Rasmus Carstensen	Pass (Live)
+10	Marcel Sabitzer	Club Crest Dortmund	0.04		Blocked	31	Right Foot		Mats Hummels	Pass (Live)	Niklas Süle	Pass (Live)
+17	Davie Selke	Club Crest Köln	0.22		Blocked	17	Right Foot		Dejan Ljubicic	Pass (Live)	Rasmus Carstensen	Pass (Live)
+18	Julian Chabot	Club Crest Köln	0.05		Off Target	16	Left Foot	Volley	Davie Selke	Pass (Live)	Florian Kainz	Pass (Live)
+22	Mats Hummels	Club Crest Dortmund	0.02		Off Target	12	Head		Marco Reus	Pass (Live)	Emre Can	Pass (Live)
+30	Julian Brandt	Club Crest Dortmund	0.05		Blocked	20	Right Foot		Marco Reus	Pass (Live)	Sébastien Haller	Pass (Live)
+30	Julian Brandt	Club Crest Dortmund	0.09	0.29	Saved	12	Left Foot		Julian Brandt	Take-On	Emre Can	Pass (Live)
+31	Sébastien Haller	Club Crest Dortmund	0.03		Blocked	10	Head		Julian Brandt	Pass (Dead)	Julian Brandt	Shot
+31	Emre Can	Club Crest Dortmund	0.03		Blocked	30	Right Foot		Sébastien Haller	Shot		
+31	Marco Reus	Club Crest Dortmund	0.22		Off Target	5	Head		Julian Brandt	Pass (Dead)	Emre Can	Shot
+31	Mats Hummels	Club Crest Dortmund	0.65		Off Target	4	Head		Marco Reus	Shot		
+36	Eric Martel	Club Crest Köln	0.05		Blocked	28	Right Foot		Florian Kainz	Pass (Live)	Davie Selke	Pass (Live)
+40	Dejan Ljubicic	Club Crest Köln	0.02		Off Target	25	Right Foot		Eric Martel	Pass (Live)		
+												
+51	Eric Martel	Club Crest Köln	0.15		Off Target	7	Head		Florian Kainz	Pass (Dead)	Florian Kainz	Pass (Live)
+54	Mats Hummels	Club Crest Dortmund	0.05		Off Target	9	Head		Julian Brandt	Pass (Dead)		
+55	Sargis Adamyan	Club Crest Köln	0.34	0.89	Saved	4	Right Foot		Rasmus Carstensen	Pass (Live)	Dejan Ljubicic	Pass (Live)
+63	Mats Hummels	Club Crest Dortmund	0.58		Off Target	3	Right Foot	Volley	Julian Brandt	Pass (Dead)	Marco Reus	Fouled
+75	Dejan Ljubicic	Club Crest Köln	0.09		Off Target	21	Right Foot		Rasmus Carstensen	Pass (Live)	Sargis Adamyan	Pass (Live)
+78	Sargis Adamyan	Club Crest Köln	0.23	0.42	Saved	7	Head		Rasmus Carstensen	Pass (Live)	Max Finkgräfe	Pass (Live)
+82	Sargis Adamyan	Club Crest Köln	0.04	0.10	Saved	22	Left Foot	Deflected	Max Finkgräfe	Pass (Live)	Leart Paqarada	Pass (Live)
+86	Niklas Süle	Club Crest Dortmund	0.03		Blocked	13	Head		Julian Brandt	Pass (Dead)		
+88	Felix Nmecha	Club Crest Dortmund	0.07		Off Target	7	Head		Julian Brandt	Pass (Dead)		
+88	Donyell Malen	Club Crest Dortmund	0.18	0.40	Goal	7	Right Foot		Felix Nmecha	Shot		
+90+7	Max Finkgräfe	Club Crest Köln	0.04		Off Target	9	Left Foot	Volley	Dejan Ljubicic	Fouled	Sargis Adamyan	Pass (Live)
+About FBref.com
+
+FBref.com launched (June 13, 2018) with domestic league coverage for England, France, Germany, Italy, Spain, and United States. Since then we have been steadily expanding our coverage to include domestic leagues from over 40 countries as well as domestic cup, super cup and youth leagues from top European countries. We have also added coverage for major international cups such as the UEFA Champions League and Copa Libertadores.
+
+FBref is the most complete sources for women's football data on the internet. This includes the entire history of the FIFA Women's World Cup as well as recent domestic league seasons from nine countries, including advanced stats like xG for most of those nine.
+
+In collaboration with Opta, we are including advanced analytical data such as xG, xA, progressive passing, duels and more for over twenty competitions. For more information on the expected goals model and which competitions have advanced data, see our xG explainer.
+
+    Login Create Account 

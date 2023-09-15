@@ -40,19 +40,22 @@ int main() {
 	//cout << "Version 1.0.0" << endl;
 	cout << "Bitte Modus waehlen" << endl;
 	cout << "(0) Daten einlesen (1) Quoten anzeigen (2) Abbruch" << endl;
-	int iWahl = 0, iErg = 0;
-	string strPath, strSQLResults;
+	int iWahl = 0, iErg = 0, iHighIndex = 27; //iHighIndex dynamisch in Funktion bestimmen
+	string strPath, strSQLResults,strSDay;
 	vector<string> strSkript;
-	int iMatch = 0; 
+	int iMatch = iHighIndex + 1, j = 1;
 	cin >> iWahl; 
 	switch (iWahl)
 	{
 	case 0:
-		for (int i = 1; i < 10; i++) {
-			strPath = "BL_2023_2024//BL-2023-2024-01-0" + to_string(i) + ".txt";
-			//iMatch++;
-			strSQLResults = ReadData(strPath, i);
+		cout << "Bitte Spieltag wählen" << endl;
+		cin >> strSDay;
+		for (int i = iHighIndex + 1; i < iHighIndex + 10; i++) {
+			strPath = "BL_2023_2024//BL-2023-2024-" + strSDay + "-0" + to_string(j) + ".txt";
+			strSQLResults = ReadData(strPath, iMatch);
 			strSkript.push_back(strSQLResults);
+			iMatch++;
+			j++;
 		}
 		ExportinCSV(strSkript, "test2.txt");
 		//ReadData();
@@ -105,7 +108,7 @@ string ReadData(string strPath, int iMatch) {
 			}
 
 			if (instr(0,strline,"vs") > -1 ) {
-				iMatchID++;
+				//iMatchID++;
 				
 
 				// Teams abgreifen
@@ -412,12 +415,14 @@ string GetTeamData(string strline, string strTeams,int iRound) { //iRound für H
 		cout << strline << endl;
 		//Tore;xG
 		//besser Team_ID?
-		strStats = strSpTeams[0] + ";" + strSplit[7] + ";" + strSplit[19];
+		///strStats = strSpTeams[0] + ";" + strSplit[7] + ";" + strSplit[19];
+		strStats = strSpTeams[0] + ";" + strSplit[7] + ";" + strSplit[19] + ";" + strSplit[13];
 		cout << strStats << endl;
 		
 	}
 	if (iRound == 1) { //A
-		strStats = strSpTeams[1] + ";" + strSplit[7] + ";" + strSplit[19];
+		//strStats = strSpTeams[1] + ";" + strSplit[7] + ";" + strSplit[19];
+		strStats = strSpTeams[1] + ";" + strSplit[7] + ";" + strSplit[19] + ";" + strSplit[13];;
 		cout << strStats << endl;
 	}
 
@@ -448,14 +453,16 @@ string GetResultSQL(string strTeamDataH, string strTeamDataA, int iMatch, string
 
 	//strMLiga //muss gesplittet werden
 	vector<string> strMDay = Split(strMLiga, ';');
+	//strHeim[3] für rote 
 
 	//SQL bauen
 	strSQL = "INSERT INTO Results Values (" + to_string(iMatch) + "," + GetTeamID(strHeim[0]) + "," + GetTeamID(strGast[0]) + ",0,0,"; //GameID/TeamID/Season,Liga
 	strSQL= strSQL +strCH + "," + strCA + "," + strHeim[1] + "," + strGast[1] + "," + strHeim[2] + "," + strGast[2]; //Trainer/Tore/xG
-	strSQL= strSQL + GetTeamID(strHeim[0]) + "," + strMDay[1] + ")"; //Stad-ID Dynamiscch!/Spieltag
+	strSQL= strSQL + GetTeamID(strHeim[0]) + "," + GetTeamID(strHeim[0]) + "," + strMDay[1] + "," + strHeim[3] + "," + strGast[3] + ");"; //Stad-ID Dynamiscch!/Spieltag
 	cout << strSQL << endl;
 	return strSQL;
-
+	//Stad-ID-fehlt!!
+	//INSERT INTO Results Values (0-Matchid,13tID,1TID,0SOD,0LID,13CID,1CIID,0TH,4TA,0.6xGHH,2.913xGA,1Spieltagid);
 }
 
 

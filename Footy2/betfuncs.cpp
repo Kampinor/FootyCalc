@@ -28,21 +28,41 @@ tAsianHand get_1X2_Q(double dOffH,double dOffA);
 
 int start()
 {
-
+    
   //hier team als klasse interesante:
   //dTH,dGTH, methods stärken errechene
   //offensiv und defensivwerte errechen
-  double dTFra =1.75,dGTFra = 1.25,dTLev =2.0,dGTLev =1.667;
+  //double dTFra =1.75,dGTFra = 1.25,dTLev =2.0,dGTLev =1.667;
+  double dTSH,dGTSH, dTSA, dGTSA;
+  cout << "Bitte Torschnitt Heim angeben" << endl;
+  cin >> dTSH;
+  cout << "Bitte Gegentorschnitt Heim angeben" << endl;
+  cin >> dGTSH;
+  cout << "Bitte Torschnitt Auswärts angeben" << endl;
+  cin >> dTSA;
+  cout << "Bitte Gegentorschnitt Auswärts angeben" << endl;
+  cin >> dGTSA;
+  double dxGH, dxGGH, dxGA, dxGGA;
+  cout << "Bitte X-Torschnitt Ausw angeben" << endl;
+  cin >> dxGH;
+  cout << "Bitte X-Gegentorschnitt Auswärts angeben" << endl;
+  cin >> dxGGH;
+  cout << "Bitte X-Torschnitt Heim angeben" << endl;
+  cin >> dxGA;
+  cout << "Bitte X-Gegentorschnitt Heim angeben" << endl;
+  cin >> dxGGA;
   //Daten Heim
-  double dOffH, dOffA;  //,dDefH,dDefA;
-  dOffH=(dTFra+dGTLev)/2;
-  //dDefH=(dGTFra+dTLev)/2;
+  //double dOffH, dOffA;  //,dDefH,dDefA;
+  //dOffH=(dTFra+dGTLev)/2;
 
-  //cout << "Off Fra: " << to_string(dOffH) << endl;
-  //cout << "Def Fra: " << to_string(dDefH) << endl;
+  double dlamH, dlamA;
+  dlamH = (dTSH + dGTSA) / 2*2 + (dxGH + dxGGA) / 2;
+  dlamH = dlamH / 3;
+  dlamA = (dxGA + dGTSH) / 2 * 2 + (dxGA + dxGGH) / 2;
+  dlamA = dlamA / 3;
 
   //Daten Ausw
-  dOffA=(dTLev+dGTFra)/2;
+  //dOffA=(dTLev+dGTFra)/2;
   //dDefA=(dGTLev+dTFra)/2;
   //cout << "Off Lev: " << to_string(dOffA) << endl;
   //cout << "Def Lev: " << to_string(dDefA) << endl;
@@ -51,13 +71,13 @@ int start()
 
 vector <double>  dToreIng,dToreIngKum;
 
-dToreIngKum = getp_Over_Under(dOffH,dOffA);
+dToreIngKum = getp_Over_Under(dlamH, dlamA);
 getq_Over_Under(dToreIngKum);
 
 tAsianHand AktDaten;
 
  //get_1X2_Q(dOffH,dOffA,AktDaten);
- AktDaten = get_1X2_Q(dOffH,dOffA);
+ AktDaten = get_1X2_Q(dlamH, dlamA);
  cout << "als struct" << endl;
  cout << AktDaten.qSieg << "/" << AktDaten.qRemis << "/" << AktDaten.qNied << endl;
  cout << "DNB:" << AktDaten.qDNB1 << "/" << AktDaten.qDNB2 << endl;

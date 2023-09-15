@@ -77,3 +77,41 @@ Insert into Coaches values (19,'Frank Schmidt',19);
 
 --18.08.2023
 ALTER Table Results Add Matchday int;
+
+--11.09.2023
+alter table Results add column RedCards_H int;
+alter table Results add column RedCards_A int;
+
+--15.09.2023
+--Views für Schnitt
+Create View Heimstatistik as
+SELECT t.TName,AVG(r.Tore_H) as "Heimtore",AVG(r.Tore_A) as "Heimgegentore",AVG(r.xG_H) as "HeimXG",AVG(r.xG_A) as "HeimXGG", COUNT(r.Team_H) as Games
+from Results r 
+left join Teams t on t.Team_ID = r.Team_H 
+where r.Matchday < 8
+GROUP by t.Team_ID 
+;
+
+Create View Heimstatistik_o_Rot as
+SELECT t.TName,AVG(r.Tore_H) as "Heimtore",AVG(r.Tore_A) as "Heimgegentore",AVG(r.xG_H) as "HeimXG",AVG(r.xG_A) as "HeimXGG", COUNT(r.Team_H) as Games
+from Results r 
+left join Teams t on t.Team_ID = r.Team_H 
+where r.Matchday < 8 and r.RedCards_H =0 and r.RedCards_A =0
+GROUP by t.Team_ID 
+;
+
+Create View Auswartsstatistik as
+SELECT t.TName,AVG(r.Tore_A) as "Auswärtstore",AVG(r.Tore_H) as "Auswärtsgegentore",AVG(r.xG_A) as "AusXG",AVG(r.xG_H) as "AusXGG", COUNT(r.Team_H) as Games
+from Results r 
+inner join Teams t on t.Team_ID = r.Team_A 
+where r.Matchday < 8
+GROUP by t.Team_ID 
+;
+
+Create View Auswartsstatistik_o_Rot as
+SELECT t.TName,AVG(r.Tore_A) as "Auswärtstore",AVG(r.Tore_H) as "Auswärtsgegentore",AVG(r.xG_A) as "AusXG",AVG(r.xG_H) as "AusXGG", COUNT(r.Team_H) as Games
+from Results r 
+inner join Teams t on t.Team_ID = r.Team_A 
+where r.Matchday < 8 and r.RedCards_H =0 and r.RedCards_A =0
+GROUP by t.Team_ID 
+;

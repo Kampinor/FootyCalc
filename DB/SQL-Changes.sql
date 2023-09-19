@@ -115,3 +115,20 @@ inner join Teams t on t.Team_ID = r.Team_A
 where r.Matchday < 8 and r.RedCards_H =0 and r.RedCards_A =0
 GROUP by t.Team_ID 
 ;
+
+-- 19.09.2023 Views für Quotenerrechnung
+Create View Auswartsstatistik_Calc as
+SELECT t.TName,(r.xG_A *2 +  r.Tore_A)/3 as ErwToreAus,(r.xG_H *2 +  r.Tore_H)/3 as ErwGToreAus, AVG(r.xG_A - r.Tore_A) as Offensiveffizienz, AVG(r.xG_H - r.Tore_H) as Defensiveffizienz
+from Results r 
+inner join Teams t on t.Team_ID = r.Team_A 
+where r.Matchday < 8 --and r.RedCards_H =0 and r.RedCards_A =0
+GROUP by t.Team_ID 
+;
+
+Create View Heimstatistik_Calc as
+SELECT t.TName,(r.xG_H *2 +  r.Tore_H)/3 as ErwToreHei,(r.xG_A *2 +  r.Tore_A)/3 as ErwGToreHei, AVG(r.xG_H - r.Tore_H) as Offensiveffizienz, AVG(r.xG_A - r.Tore_A) as Defensiveffizienz
+from Results r 
+inner join Teams t on t.Team_ID = r.Team_H 
+where r.Matchday < 8 --and r.RedCards_H =0 and r.RedCards_A =0
+GROUP by t.Team_ID 
+;

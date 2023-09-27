@@ -1,0 +1,324 @@
+Binge play every Immaculate Footy game with the new archive mode and put your footy knowledge to the test.
+Eintracht Frankfurt vs. Freiburg Match Report – Sunday September 24, 2023
+Fußball-Bundesliga (Matchweek 5)
+Eintracht Frankfurt Club Crest
+Eintracht Frankfurt
+0
+0.6
+1-4-0
+Prev Match
+Manager: Dino Toppmöller
+Captain: Kevin Trapp
+Freiburg Club Crest
+Freiburg
+0
+0.5
+2-1-2
+Prev Match
+Manager: Christian Streich
+Captain: Vincenzo Grifo
+Sunday September 24, 2023, 17:30 (venue time)
+Fußball-Bundesliga (Matchweek 5)
+Eintracht Frankfurt vs. Freiburg
+ 
+Attendance: 55,800
+Venue: Deutsche Bank Park, Frankfurt am Main
+Officials: Felix Zwayer (Referee) · Stefan Lupp (AR1) · Thomas Gorniak (AR2) · Timo Gerach (4th) · Sascha Stegemann (VAR)
+football pitch for squad formations
+1
+3
+8
+9
+14
+17
+22
+25
+28
+32
+42
+1
+3
+4
+7
+8
+15
+16
+24
+26
+29
+35
+Eint Frankfurt (3-4-3)
+1	Kevin Trapp
+3	Willian Pacho
+4	Robin Koch
+7	Omar Marmoush
+8	Fares Chaïbi
+15	Ellyes Skhiri
+16	Hugo Larsson
+24	Aurélio Buta
+26	Junior Dina Ebimbe
+29	Niels Nkounkou
+35	Tuta
+Bench
+33	Jens Grahl
+5	Hrvoje Smolčić
+18	Jessic Ngankam
+20	Makoto Hasebe
+27	Mario Götze
+30	Paxten Aaronson
+31	Philipp Max
+36	Ansgar Knauff
+48	Nacho Ferri
+Freiburg (3-4-3)
+1	Noah Atubolu
+3	Philipp Lienhart
+8	Maximilian Eggestein
+9	Lucas Höler
+14	Yannik Keitel
+17	Lukas Kübler
+22	Roland Sallai
+25	Kiliann Sildillia
+28	Matthias Ginter
+32	Vincenzo Grifo
+42	Ritsu Doan
+Bench
+21	Florian Müller
+4	Kenneth Schmidt
+5	Manuel Gulde
+7	Noah Weißhaupt
+20	Junior Adamu
+26	Maximilian Philipp
+34	Merlin Röhl
+35	Fabian Rüdlin
+44	Maximilian Breunig
+Match Summary
+Kick Off
+ 33’
+0:0	
+Matthias Ginter
+Freiburg Club Crest
+45+2’
+0:0	
+Junior Dina Ebimbe
+Eintracht Frankfurt Club Crest
+Half Time
+ 52’
+0:0	
+Willian Pacho
+Eintracht Frankfurt Club Crest
+ 57’
+0:0	
+Mario Götze
+for Junior Dina Ebimbe
+Eintracht Frankfurt Club Crest
+ 65’
+0:0	
+Jessic Ngankam
+for Omar Marmoush
+Eintracht Frankfurt Club Crest
+ 65’
+0:0	
+Ansgar Knauff
+for Aurélio Buta
+Eintracht Frankfurt Club Crest
+ 73’
+0:0	
+Noah Weißhaupt
+for Vincenzo Grifo
+Freiburg Club Crest
+ 74’
+0:0	
+Maximilian Philipp
+for Ritsu Doan
+Freiburg Club Crest
+ 80’
+0:0	
+Philipp Max
+for Niels Nkounkou
+Eintracht Frankfurt Club Crest
+ 80’
+0:0	
+Nacho Ferri
+for Fares Chaïbi
+Eintracht Frankfurt Club Crest
+ 84’
+0:0	
+Junior Adamu
+for Lucas Höler
+Freiburg Club Crest
+ 84’
+0:0	
+Kenneth Schmidt
+for Lukas Kübler
+Freiburg Club Crest
+ 86’
+0:0	
+Robin Koch
+Eintracht Frankfurt Club Crest
+ 86’
+0:0	
+Kevin Trapp
+Eintracht Frankfurt Club Crest
+ 86’
+0:0	
+Maximilian Eggestein
+Freiburg Club Crest
+Team Stats
+Eint Frankfurt Eintracht Frankfurt Club Crest
+	Freiburg Club Crest
+Freiburg
+Possession
+57%
+	
+43%
+Passing Accuracy
+493 of 609 — 81%
+	
+73% — 335 of 461
+Shots on Target
+4 of 12 — 33%
+	
+14% — 1 of 7
+Saves
+1 of 1 — 100%
+	
+100% — 4 of 4
+Cards
+	
+Eint Frankfurt
+ 
+Freiburg
+12
+Fouls
+5
+7
+Corners
+3
+18
+Crosses
+13
+733
+Touches
+600
+Eint Frankfurt
+ 
+Freiburg
+18
+Tackles
+30
+7
+Interceptions
+15
+14
+Aerials Won
+15
+20
+Clearances
+20
+Eint Frankfurt
+ 
+Freiburg
+0
+Offsides
+4
+6
+Goal Kicks
+10
+26
+Throw Ins
+22
+57
+Long Balls
+84
+Eint Frankfurt Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Omar Marmoush	7	eg EGY	FW	24-229	64	0	0	0	0	2	1	0	0	23	0	1	0	0.1	0.1	0.1	1	0	10	16	62.5	3	18	5	4	0
+   Jessic Ngankam	18	de GER	WB	23-066	26	0	0	0	0	1	0	0	0	10	2	0	0	0.1	0.1	0.0	0	0	2	2	100.0	0	9	1	3	1
+Junior Dina Ebimbe	26	fr FRA	AM	22-307	56	0	0	0	0	1	0	1	0	33	1	0	1	0.0	0.0	0.0	0	0	16	25	64.0	2	19	0	0	0
+   Mario Götze	27	de GER	AM	31-113	34	0	0	0	0	0	0	0	0	18	0	0	0	0.0	0.0	0.0	1	0	12	15	80.0	4	11	1	0	0
+Fares Chaïbi	8	dz ALG	AM	20-300	79	0	0	0	0	1	1	0	0	49	1	0	4	0.0	0.0	0.2	4	0	26	41	63.4	3	15	4	0	0
+   Nacho Ferri	48	es ESP	AM	18-354	11	0	0	0	0	1	0	0	0	6	2	0	0	0.0	0.0	0.0	1	0	2	3	66.7	0	2	0	0	0
+Ellyes Skhiri	15	tn TUN	CM	28-137	90	0	0	0	0	2	2	0	0	78	0	2	2	0.2	0.2	0.0	0	0	56	63	88.9	7	39	1	2	0
+Hugo Larsson	16	se SWE	CM	19-089	90	0	0	0	0	1	0	0	0	66	1	0	3	0.0	0.0	0.1	1	0	44	52	84.6	5	43	2	3	1
+Niels Nkounkou	29	fr FRA	WB	22-327	79	0	0	0	0	0	0	0	0	60	1	2	4	0.0	0.0	0.0	2	0	36	48	75.0	1	26	3	8	4
+   Philipp Max	31	de GER	WB	29-359	11	0	0	0	0	1	0	0	0	8	0	0	1	0.0	0.0	0.0	1	0	4	6	66.7	0	2	0	0	0
+Aurélio Buta	24	pt POR	WB	26-226	64	0	0	0	0	0	0	0	0	49	2	0	1	0.0	0.0	0.0	0	0	29	40	72.5	0	21	1	2	0
+   Ansgar Knauff	36	de GER	FW	21-257	26	0	0	0	0	0	0	0	0	25	0	0	0	0.0	0.0	0.0	0	0	17	23	73.9	2	11	1	2	1
+Willian Pacho	3	ec ECU	CB	21-343	90	0	0	0	0	1	0	1	0	85	4	0	2	0.1	0.1	0.0	1	0	57	71	80.3	8	49	1	0	0
+Robin Koch	4	de GER	CB	27-069	90	0	0	0	0	0	0	1	0	100	0	1	2	0.0	0.0	0.0	1	0	86	93	92.5	5	76	0	0	0
+Tuta	35	br BRA	CB	24-082	90	0	0	0	0	1	0	0	0	91	4	1	0	0.0	0.0	0.0	2	0	71	80	88.8	5	57	1	3	1
+Kevin Trapp	1	de GER	GK	33-078	90	0	0	0	0	0	0	1	0	32	0	0	0	0.0	0.0	0.0	0	0	25	31	80.6	0	15	0	0	0
+16 Players					990	0	0	0	0	12	4	4	0	733	18	7	20	0.6	0.6	0.5	15	0	493	609	81.0	45	413	21	27	8
+Eint Frankfurt Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Kevin Trapp	de GER	33-078	90	1	0	1	100.0	0.2	0	5	0.0	25	6	16.0	22.5	6	16.7	25.2	10	0	0.0	1	15.5
+Freiburg Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Lucas Höler	9	de GER	FW	29-076	83	0	0	0	0	1	0	0	0	40	3	2	0	0.2	0.2	0.2	2	0	17	26	65.4	0	18	1	2	0
+   Junior Adamu	20	at AUT	FW	22-110	7	0	0	0	0	0	0	0	0	6	1	0	0	0.0	0.0	0.0	0	0	1	1	100.0	0	4	0	2	0
+Vincenzo Grifo	32	it ITA	AM	30-170	72	0	0	0	0	0	0	0	0	35	3	1	0	0.0	0.0	0.0	0	0	16	27	59.3	1	16	0	0	0
+   Noah Weißhaupt	7	de GER	AM	22-004	18	0	0	0	0	0	0	0	0	13	0	0	1	0.0	0.0	0.0	1	0	5	9	55.6	1	10	1	1	0
+Ritsu Doan	42	jp JPN	AM	25-100	73	0	0	0	0	1	1	0	0	37	2	0	3	0.0	0.0	0.1	2	0	15	22	68.2	0	20	3	3	1
+   Maximilian Philipp	26	de GER	AM	29-207	17	0	0	0	0	0	0	0	0	8	3	0	2	0.0	0.0	0.0	0	0	1	2	50.0	0	3	0	0	0
+Maximilian Eggestein	8	de GER	CM	26-290	90	0	0	0	0	0	0	1	0	57	1	1	5	0.0	0.0	0.0	0	0	35	46	76.1	6	29	2	0	0
+Yannik Keitel	14	de GER	CM	23-221	90	0	0	0	0	0	0	0	0	49	7	4	3	0.0	0.0	0.0	1	0	19	28	67.9	5	20	0	4	2
+Lukas Kübler	17	de GER	WB	31-025	83	0	0	0	0	1	0	0	0	36	2	2	1	0.1	0.1	0.0	0	0	22	28	78.6	2	19	1	1	1
+   Kenneth Schmidt	4	de GER	WB	21-113	7	0	0	0	0	1	0	0	0	15	0	0	1	0.0	0.0	0.0	0	0	11	12	91.7	1	4	0	0	0
+Roland Sallai	22	hu HUN	WB	26-125	90	0	0	0	0	3	0	0	0	46	1	1	1	0.3	0.3	0.1	4	0	16	31	51.6	1	32	2	3	2
+Kiliann Sildillia	25	fr FRA	CB	21-131	90	0	0	0	0	0	0	0	0	78	6	1	4	0.0	0.0	0.0	0	0	54	66	81.8	5	48	0	0	0
+Philipp Lienhart	3	at AUT	CB	27-075	90	0	0	0	0	0	0	0	0	59	1	1	1	0.0	0.0	0.0	0	0	43	50	86.0	1	41	0	0	0
+Matthias Ginter	28	de GER	CB	29-248	90	0	0	0	0	0	0	1	0	75	0	2	1	0.0	0.0	0.0	2	0	45	69	65.2	6	44	2	0	0
+Noah Atubolu	1	de GER	GK	21-122	90	0	0	0	0	0	0	0	0	46	0	0	0	0.0	0.0	0.0	0	0	35	44	79.5	0	28	0	0	0
+15 Players					990	0	0	0	0	7	1	2	0	600	30	15	23	0.6	0.6	0.4	12	0	335	461	72.7	29	336	12	16	6
+Freiburg Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Noah Atubolu	de GER	21-122	90	4	0	4	100.0	0.6	5	14	35.7	34	11	14.7	30.3	10	90.0	62.7	15	1	6.7	1	12.7
+Shots
+
+Both Squads
+Eint Frankfurt
+Freiburg
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+4	Ritsu Doan	Club Crest Freiburg	0.04	0.23	Saved	14	Head		Roland Sallai	Pass (Live)	Ritsu Doan	Pass (Live)
+11	Fares Chaïbi	Club Crest Eint Frankfurt	0.04	0.16	Saved	27	Right Foot					
+12	Willian Pacho	Club Crest Eint Frankfurt	0.09		Blocked	8	Head		Fares Chaïbi	Pass (Dead)	Fares Chaïbi	Shot
+12	Ellyes Skhiri	Club Crest Eint Frankfurt	0.14	0.07	Saved	3	Head		Omar Marmoush	Pass (Live)	Fares Chaïbi	Pass (Dead)
+20	Hugo Larsson	Club Crest Eint Frankfurt	0.03		Blocked	21	Right Foot		Robin Koch	Pass (Live)	Willian Pacho	Pass (Live)
+21	Roland Sallai	Club Crest Freiburg	0.08		Blocked	15	Right Foot		Lucas Höler	Pass (Live)	Matthias Ginter	Pass (Dead)
+21	Roland Sallai	Club Crest Freiburg	0.08		Off Target	17	Left Foot		Lucas Höler	Pass (Live)	Matthias Ginter	Pass (Live)
+28	Junior Dina Ebimbe	Club Crest Eint Frankfurt	0.02		Blocked	26	Right Foot		Tuta	Pass (Live)	Niels Nkounkou	Pass (Live)
+31	Ellyes Skhiri	Club Crest Eint Frankfurt	0.06	0.10	Saved	17	Right Foot					
+37	Roland Sallai	Club Crest Freiburg	0.11		Blocked	8	Right Foot		Ritsu Doan	Pass (Live)		
+38	Lucas Höler	Club Crest Freiburg	0.17		Blocked	15	Left Foot		Roland Sallai	Shot		
+												
+46	Omar Marmoush	Club Crest Eint Frankfurt	0.09	0.32	Saved	16	Right Foot		Fares Chaïbi	Pass (Live)	Niels Nkounkou	Pass (Live)
+60	Omar Marmoush	Club Crest Eint Frankfurt	0.03		Off Target	14	Right Foot		Mario Götze	Pass (Live)		
+69	Jessic Ngankam	Club Crest Eint Frankfurt	0.09		Off Target	17	Right Foot		Hugo Larsson	Pass (Live)	Tuta	Pass (Live)
+78	Lukas Kübler	Club Crest Freiburg	0.06		Off Target	22	Right Foot		Roland Sallai	Pass (Live)	Yannik Keitel	Pass (Live)
+82	Nacho Ferri	Club Crest Eint Frankfurt	0.03		Blocked	22	Right Foot					
+83	Philipp Max	Club Crest Eint Frankfurt	0.01		Blocked	19	Left Foot	Volley	Nacho Ferri	Shot		
+83	Tuta	Club Crest Eint Frankfurt	0.02		Blocked	12	Right Foot		Philipp Max	Shot		
+90+2	Kenneth Schmidt	Club Crest Freiburg	0.02		Off Target	29	Left Foot		Roland Sallai	Pass (Live)	Noah Weißhaupt	Pass (Live)
+About FBref.com
+

@@ -1,0 +1,345 @@
+
+Put your football knowledge to the test with our new daily trivia game, Immaculate Footy.
+Union Berlin vs. RB Leipzig Match Report – Sunday September 3, 2023
+Fußball-Bundesliga (Matchweek 3)
+Union Berlin Club Crest
+Union Berlin
+0
+0.3
+2-0-1
+Prev Match
+Manager: Urs Fischer
+Captain: Danilho Doekhi
+RB Leipzig Club Crest
+RB Leipzig
+3
+1.2
+2-0-1
+Prev Match
+Manager: Marco Rose
+Captain: Willi Orban
+Sunday September 3, 2023, 17:30 (venue time)
+Fußball-Bundesliga (Matchweek 3)
+Union Berlin vs. RB Leipzig
+ 
+Venue: Stadion An der Alten Försterei, Berlin
+Officials: Daniel Schlager (Referee) · Sven Waschitzki (AR1) · Arno Blos (AR2) · Robin Braun (4th) · Tobias Welz (VAR)
+Kevin Volland · 64’
+Xavi Simons · 51’
+Benjamin Šeško · 85’
+Benjamin Šeško · 87’
+football pitch for squad formations
+1
+4
+5
+6
+10
+11
+17
+18
+20
+31
+33
+21
+2
+4
+7
+9
+17
+20
+22
+24
+39
+44
+Union Berlin (3-4-3)
+1	Frederik Rønnow
+4	Diogo Leite
+5	Danilho Doekhi
+6	Robin Gosens
+10	Kevin Volland
+11	David Datro Fofana
+17	Kevin Behrens
+18	Josip Juranović
+20	Aïssa Laïdouni
+31	Robin Knoche
+33	Alex Král
+Bench
+37	Alexander Schwolow
+3	Paul Jaeckel
+9	Mikkel Kaufmann
+16	Benedict Hollerbach
+19	Janik Haberer
+23	Leonardo Bonucci
+26	Jérôme Roussillon
+28	Christopher Trimmel
+36	Aljoscha Kemlein
+RB Leipzig (4-2-2-2)
+21	Janis Blaswich
+2	Mohamed Simakan
+4	Willi Orban
+7	Dani Olmo
+9	Yussuf Poulsen
+17	Loïs Openda
+20	Xavi Simons
+22	David Raum
+24	Xaver Schlager
+39	Benjamin Henrichs
+44	Kevin Kampl
+Bench
+25	Leopold Zingerle
+10	Emil Forsberg
+11	Timo Werner
+13	Nicolas Seiwald
+14	Christoph Baumgartner
+16	Lukas Klostermann
+18	Fabio Carvalho
+23	Castello Lukeba
+30	Benjamin Šeško
+Match Summary
+Kick Off
+ 26’
+0:0	
+Benjamin Henrichs
+RB Leipzig Club Crest
+ 27’
+0:0	
+Alex Král
+Union Berlin Club Crest
+Half Time
+ 51’
+0:1	
+Xavi Simons
+Assist: Benjamin Henrichs
+RB Leipzig Club Crest
+ 61’
+0:1	
+Benedict Hollerbach
+for David Datro Fofana
+Union Berlin Club Crest
+ 64’
+0:1	
+Kevin Volland
+Union Berlin Club Crest
+ 67’
+0:1	
+Lukas Klostermann
+for Mohamed Simakan
+RB Leipzig Club Crest
+ 71’
+0:1	
+Janik Haberer
+for Aïssa Laïdouni
+Union Berlin Club Crest
+ 71’
+0:1	
+Christopher Trimmel
+for Josip Juranović
+Union Berlin Club Crest
+ 75’
+0:1	
+Benjamin Šeško
+for Yussuf Poulsen
+RB Leipzig Club Crest
+ 75’
+0:1	
+Christoph Baumgartner
+for Loïs Openda
+RB Leipzig Club Crest
+ 80’
+0:1	
+Robin Gosens
+Union Berlin Club Crest
+ 81’
+0:1	
+Janik Haberer
+Union Berlin Club Crest
+ 85’
+0:2	
+Benjamin Šeško
+Assist: Xavi Simons
+RB Leipzig Club Crest
+ 86’
+0:2	
+Jérôme Roussillon
+for Kevin Behrens
+Union Berlin Club Crest
+ 86’
+0:2	
+Mikkel Kaufmann
+for Robin Gosens
+Union Berlin Club Crest
+ 87’
+0:3	
+Benjamin Šeško
+Assist: Dani Olmo
+RB Leipzig Club Crest
+ 88’
+0:3	
+Castello Lukeba
+for Benjamin Henrichs
+RB Leipzig Club Crest
+ 88’
+0:3	
+Emil Forsberg
+for Xavi Simons
+RB Leipzig Club Crest
+Team Stats
+Union Berlin Union Berlin Club Crest
+	RB Leipzig Club Crest
+RB Leipzig
+Possession
+36%
+	
+64%
+Passing Accuracy
+264 of 379 — 70%
+	
+83% — 570 of 688
+Shots on Target
+1 of 3 — 33%
+	
+50% — 7 of 14
+Saves
+4 of 7 — 57%
+	
+100% — 1 of 1
+Cards
+	
+Union Berlin
+ 
+RB Leipzig
+16
+Fouls
+9
+3
+Corners
+7
+15
+Crosses
+20
+484
+Touches
+801
+Union Berlin
+ 
+RB Leipzig
+17
+Tackles
+26
+9
+Interceptions
+9
+12
+Aerials Won
+22
+19
+Clearances
+11
+Union Berlin
+ 
+RB Leipzig
+1
+Offsides
+2
+9
+Goal Kicks
+6
+22
+Throw Ins
+21
+63
+Long Balls
+56
+Union Berlin Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Kevin Behrens	17	de GER	FW	32-212	85	0	0	0	0	0	0	0	0	20	0	1	0	0.0	0.0	0.0	0	0	5	13	38.5	3	12	1	1	1
+   Jérôme Roussillon	26	fr FRA	FW	30-240	5	0	0	0	0	0	0	0	0	1	0	0	0	0.0	0.0	0.0	0	0	0	0		0	0	0	0	0
+David Datro Fofana	11	ci CIV	AM	20-255	60	0	0	0	0	1	0	0	0	26	1	0	0	0.1	0.1	0.0	0	0	11	13	84.6	1	20	0	10	4
+   Benedict Hollerbach	16	de GER	AM	22-109	30	0	0	0	0	0	0	0	0	12	0	0	3	0.0	0.0	0.0	0	0	2	7	28.6	0	2	0	1	0
+Kevin Volland	10	de GER	AM	31-035	63	0	0	0	0	1	1	0	1	24	4	1	0	0.2	0.2	0.0	1	0	9	18	50.0	1	9	1	0	0
+Aïssa Laïdouni	20	tn TUN	CM	26-264	70	0	0	0	0	0	0	0	0	43	4	0	0	0.0	0.0	0.0	1	0	26	34	76.5	3	10	1	0	0
+   Janik Haberer	19	de GER	CM	29-154	20	0	0	0	0	0	0	1	0	7	0	0	0	0.0	0.0	0.0	0	0	2	4	50.0	0	5	0	1	0
+Alex Král	33	cz CZE	CM	25-107	90	0	0	0	0	1	0	1	0	43	2	0	2	0.0	0.0	0.2	1	0	27	36	75.0	5	10	1	0	0
+Robin Gosens	6	de GER	WB	29-060	85	0	0	0	0	0	0	1	0	50	3	0	2	0.0	0.0	0.0	0	0	30	40	75.0	4	12	0	2	0
+   Mikkel Kaufmann	9	dk DEN	WB	22-243	5	0	0	0	0	0	0	0	0	6	0	0	0	0.0	0.0	0.0	0	0	2	5	40.0	0	1	1	0	0
+Josip Juranović	18	hr CRO	WB	28-018	70	0	0	0	0	0	0	0	0	37	0	0	0	0.0	0.0	0.0	0	0	23	32	71.9	1	12	1	4	0
+   Christopher Trimmel	28	at AUT	WB	36-191	20	0	0	0	0	0	0	0	0	20	0	1	1	0.0	0.0	0.0	0	0	6	16	37.5	0	6	1	1	0
+Diogo Leite	4	pt POR	CB	24-223	90	0	0	0	0	0	0	0	0	50	1	1	0	0.0	0.0	0.0	1	0	28	38	73.7	3	18	0	0	0
+Robin Knoche	31	de GER	CB	31-104	90	0	0	0	0	0	0	0	0	69	2	3	3	0.0	0.0	0.0	0	0	44	56	78.6	4	29	0	1	1
+Danilho Doekhi	5	nl NED	CB	25-065	90	0	0	0	0	0	0	0	0	41	0	2	0	0.0	0.0	0.0	1	0	28	35	80.0	1	21	0	1	1
+Frederik Rønnow	1	dk DEN	GK	31-030	90	0	0	0	0	0	0	0	0	35	0	0	0	0.0	0.0	0.0	0	0	21	32	65.6	0	14	0	0	0
+16 Players					963	0	0	0	0	3	1	3	1	484	17	9	11	0.3	0.3	0.3	5	0	264	379	69.7	26	181	7	22	7
+Union Berlin Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Frederik Rønnow	dk DEN	31-030	90	7	3	4	57.1	1.9	5	14	35.7	23	3	39.1	32.9	9	55.6	41.1	12	1	8.3	1	17.5
+RB Leipzig Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Yussuf Poulsen	9	dk DEN	FW	29-080	74	0	0	0	0	1	0	0	0	30	0	0	0	0.0	0.0	0.0	3	0	18	23	78.3	1	21	0	1	0
+   Benjamin Šeško	30	si SVN	FW	20-095	16	2	0	0	0	2	2	0	0	11	0	0	0	0.5	0.5	0.1	4	2	5	8	62.5	0	7	1	1	1
+Loïs Openda	17	be BEL	FW	23-199	74	0	0	0	0	1	0	0	0	14	0	0	0	0.0	0.0	0.1	2	0	5	9	55.6	0	14	0	2	0
+   Christoph Baumgartner	14	at AUT	FW	24-033	16	0	0	0	0	0	0	0	0	12	0	0	1	0.0	0.0	0.0	0	0	6	8	75.0	0	8	1	0	0
+Dani Olmo	7	es ESP	AM	25-119	90	0	1	0	0	1	1	0	0	43	1	3	0	0.1	0.1	0.5	3	1	27	36	75.0	3	29	2	4	3
+Xavi Simons	20	nl NED	AM	20-135	87	1	1	0	0	3	2	0	0	45	2	0	0	0.2	0.2	0.3	4	1	26	37	70.3	3	32	3	4	2
+   Emil Forsberg	10	se SWE	AM	31-315	3	0	0	0	0	1	0	0	0	15	0	0	0	0.1	0.1	0.0	0	0	12	14	85.7	1	10	1	0	0
+Kevin Kampl	44	si SVN	DM	32-329	90	0	0	0	0	1	0	0	0	101	1	1	0	0.0	0.0	0.0	4	0	85	95	89.5	10	85	3	3	2
+Xaver Schlager	24	at AUT	DM	25-340	90	0	0	0	0	1	0	0	0	77	5	1	3	0.0	0.0	0.0	1	0	53	63	84.1	7	53	3	3	1
+David Raum	22	de GER	LB	25-134	90	0	0	0	0	0	0	0	0	81	4	0	0	0.0	0.0	0.0	1	0	55	73	75.3	2	55	0	0	0
+Willi Orban	4	hu HUN	CB,RB	30-304	90	0	0	0	0	1	0	0	0	136	3	0	2	0.1	0.1	0.0	0	0	111	122	91.0	12	103	2	1	0
+Mohamed Simakan	2	fr FRA	CB	23-123	66	0	0	0	0	1	1	0	0	74	7	0	0	0.0	0.0	0.0	0	0	57	61	93.4	5	50	0	0	0
+   Lukas Klostermann	16	de GER	CB	27-092	24	0	0	0	0	0	0	0	0	33	0	0	0	0.0	0.0	0.1	1	0	26	32	81.3	2	26	1	0	0
+Benjamin Henrichs	39	de GER	RB	26-192	87	0	1	0	0	1	1	1	0	85	3	3	4	0.1	0.1	0.1	2	1	49	67	73.1	8	50	1	3	1
+   Castello Lukeba	23	fr FRA	CB	20-260	3	0	0	0	0	0	0	0	0	13	0	1	1	0.0	0.0	0.0	0	0	10	10	100.0	1	11	0	0	0
+Janis Blaswich	21	de GER	GK	32-124	90	0	0	0	0	0	0	0	0	31	0	0	0	0.0	0.0	0.0	0	0	25	30	83.3	0	23	0	0	0
+16 Players					990	3	3	0	0	14	7	1	0	801	26	9	11	1.2	1.2	1.1	25	5	570	688	82.8	55	577	18	22	10
+RB Leipzig Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Janis Blaswich	de GER	32-124	90	1	0	1	100.0	0.1	2	7	28.6	24	2	20.8	28.0	6	33.3	33.3	10	1	10.0	4	21.7
+Shots
+
+Both Squads
+Union Berlin
+RB Leipzig
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+13	Kevin Volland	Club Crest Union Berlin	0.25	0.08	Saved	9	Head		Alex Král	Pass (Live)	Danilho Doekhi	Pass (Live)
+15	Yussuf Poulsen	Club Crest RB Leipzig	0.03		Off Target	27	Left Foot		Xavi Simons	Pass (Live)	Benjamin Henrichs	Interception
+18	Xavi Simons	Club Crest RB Leipzig	0.02	0.07	Saved	31	Right Foot		Kevin Kampl	Pass (Live)	Yussuf Poulsen	Pass (Live)
+20	Loïs Openda	Club Crest RB Leipzig	0.03		Blocked	17	Right Foot		Yussuf Poulsen	Pass (Live)	Xaver Schlager	Pass (Live)
+33	Xaver Schlager	Club Crest RB Leipzig	0.02		Off Target	33	Left Foot		Yussuf Poulsen	Pass (Live)	Loïs Openda	Pass (Live)
+38	Alex Král	Club Crest Union Berlin	0.02		Blocked	29	Left Foot		Diogo Leite	Tackle	Aïssa Laïdouni	Pass (Live)
+45+1	Mohamed Simakan	Club Crest RB Leipzig	0.04	0.08	Saved	7	Head		David Raum	Pass (Live)	Kevin Kampl	Pass (Live)
+												
+51	Xavi Simons	Club Crest RB Leipzig	0.10	0.25	Goal	21	Right Foot		Benjamin Henrichs	Pass (Live)		
+53	David Datro Fofana	Club Crest Union Berlin	0.05		Off Target	27	Right Foot	Free kick	Kevin Volland	Fouled		
+55	Kevin Kampl	Club Crest RB Leipzig	0.02		Off Target	26	Right Foot		Kevin Kampl	Take-On		
+59	Xavi Simons	Club Crest RB Leipzig	0.05		Blocked	18	Right Foot		Xavi Simons	Take-On	Loïs Openda	Pass (Live)
+76	Dani Olmo	Club Crest RB Leipzig	0.08	0.37	Saved	25	Left Foot		Benjamin Šeško	Pass (Live)		
+76	Willi Orban	Club Crest RB Leipzig	0.09		Off Target	9	Head		Xavi Simons	Pass (Dead)	Dani Olmo	Shot
+82	Benjamin Henrichs	Club Crest RB Leipzig	0.08	0.19	Saved	20	Right Foot		Dani Olmo	Pass (Live)	Benjamin Šeško	Pass (Live)
+85	Benjamin Šeško	Club Crest RB Leipzig	0.18	0.41	Goal	13	Right Foot		Benjamin Šeško	Take-On	Xavi Simons	Pass (Live)
+87	Benjamin Šeško	Club Crest RB Leipzig	0.37	0.50	Goal	14	Head		Dani Olmo	Pass (Live)	Benjamin Šeško	Pass (Live)
+90+3	Emil Forsberg	Club Crest RB Leipzig	0.05		Blocked	18	Left Foot		Lukas Klostermann	Pass (Live)	Kevin Kampl	Pass (Live)
+About FBref.com
+
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data

@@ -1,0 +1,340 @@
+
+Put your football knowledge to the test with our new daily trivia game, Immaculate Footy.
+Hoffenheim vs. Wolfsburg Match Report – Saturday September 2, 2023
+Fußball-Bundesliga (Matchweek 3)
+Hoffenheim Club Crest
+Hoffenheim
+3
+2.0
+2-0-1
+Prev Match
+Manager: Pellegrino Matarazzo
+Captain: Oliver Baumann
+Wolfsburg Club Crest
+Wolfsburg
+1
+1.2
+2-0-1
+Prev Match
+Manager: Niko Kovač
+Captain: Maximilian Arnold
+Saturday September 2, 2023, 15:30 (venue time)
+Fußball-Bundesliga (Matchweek 3)
+Hoffenheim vs. Wolfsburg
+ 
+Attendance: 17,500
+Venue: PreZero Arena, Sinsheim
+Officials: Felix Zwayer (Referee) · Thomas Gorniak (AR1) · Marcel Pelgrim (AR2) · Michael Bacher (4th) · Sascha Stegemann (VAR)
+John Brooks · 45+2’
+Maximilian Beier · 60’
+Robert Skov · 74’
+Tiago Tomás · 36’
+football pitch for squad formations
+1
+6
+9
+10
+11
+14
+21
+22
+23
+27
+41
+1
+4
+5
+7
+11
+13
+19
+21
+23
+27
+32
+Hoffenheim (3-5-2)
+1	Oliver Baumann
+6	Grischa Prömel
+9	Ihlas Bebou
+10	Wout Weghorst
+11	Florian Grillitsch
+14	Maximilian Beier
+21	Marius Bülter
+22	Kevin Vogt
+23	John Brooks
+27	Andrej Kramarić
+41	Attila Szalai
+Bench
+36	Nahuel Noll
+7	Mergim Berisha
+17	Julian Justvan
+18	Diadie Samassékou
+20	Finn Ole Becker
+29	Robert Skov
+34	Stanley N'Soki
+39	Tom Bischof
+48	Joshua Quarshie
+Wolfsburg (4-3-3)
+1	Koen Casteels
+4	Maxence Lacroix
+5	Cedric Zesiger
+7	Václav Černý
+11	Tiago Tomás
+13	Rogério
+19	Lovro Majer
+21	Joakim Mæhle
+23	Jonas Wind
+27	Maximilian Arnold
+32	Mattias Svanberg
+Bench
+12	Pavao Pervan
+35	Philipp Schulze
+6	Aster Vranckx
+9	Amin Sarr
+16	Jakub Kamiński
+20	Ridle Baku
+25	Moritz Jenz
+31	Yannick Gerhardt
+40	Kevin Paredes
+Match Summary
+Kick Off
+ 10’
+0:0	
+Wout Weghorst
+Hoffenheim Club Crest
+ 25’
+0:0	
+Ihlas Bebou
+Hoffenheim Club Crest
+ 36’
+0:1	
+Tiago Tomás
+Assist: Jonas Wind
+Wolfsburg Club Crest
+ 43’
+0:1	
+Joakim Mæhle
+Wolfsburg Club Crest
+45+2’
+1:1	
+John Brooks
+Assist: Marius Bülter
+Hoffenheim Club Crest
+Half Time
+ 59’
+1:1	
+Robert Skov
+for Marius Bülter
+Hoffenheim Club Crest
+ 60’
+2:1	
+Maximilian Beier
+Assist: Robert Skov
+Hoffenheim Club Crest
+ 68’
+2:1	
+Ridle Baku
+for Joakim Mæhle
+Wolfsburg Club Crest
+ 68’
+2:1	
+Kevin Paredes
+for Tiago Tomás
+Wolfsburg Club Crest
+ 68’
+2:1	
+Amin Sarr
+for Lovro Majer
+Wolfsburg Club Crest
+ 68’
+2:1	
+Mergim Berisha
+for Maximilian Beier
+Hoffenheim Club Crest
+ 74’
+3:1	
+Robert Skov
+Assist: Andrej Kramarić
+Hoffenheim Club Crest
+ 75’
+3:1	
+Mattias Svanberg
+Wolfsburg Club Crest
+ 78’
+3:1	
+Yannick Gerhardt
+for Mattias Svanberg
+Wolfsburg Club Crest
+ 83’
+3:1	
+Jakub Kamiński
+for Václav Černý
+Wolfsburg Club Crest
+90+4’
+3:1	
+Diadie Samassékou
+for Andrej Kramarić
+Hoffenheim Club Crest
+Team Stats
+Hoffenheim Hoffenheim Club Crest
+	Wolfsburg Club Crest
+Wolfsburg
+Possession
+40%
+	
+60%
+Passing Accuracy
+282 of 379 — 74%
+	
+84% — 480 of 569
+Shots on Target
+5 of 10 — 50%
+	
+54% — 7 of 13
+Saves
+6 of 7 — 85%
+	
+40% — 2 of 5
+Cards
+	
+Hoffenheim
+ 
+Wolfsburg
+12
+Fouls
+15
+3
+Corners
+3
+13
+Crosses
+19
+468
+Touches
+656
+Hoffenheim
+ 
+Wolfsburg
+12
+Tackles
+9
+9
+Interceptions
+4
+9
+Aerials Won
+7
+17
+Clearances
+23
+Hoffenheim
+ 
+Wolfsburg
+4
+Offsides
+0
+7
+Goal Kicks
+3
+20
+Throw Ins
+21
+73
+Long Balls
+64
+Hoffenheim Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Maximilian Beier	14	de GER	FW	20-320	67	1	0	0	0	2	2	0	0	17	0	0	1	0.6	0.6	0.0	1	0	4	10	40.0	0	15	1	2	0
+   Mergim Berisha	7	de GER	FW	25-114	23	0	0	0	0	0	0	0	0	4	0	0	0	0.0	0.0	0.0	0	0	1	1	100.0	0	2	0	0	0
+Wout Weghorst	10	nl NED	FW	31-026	90	0	0	0	0	0	0	1	0	37	1	1	1	0.0	0.0	0.0	1	0	21	29	72.4	2	27	0	1	0
+Andrej Kramarić	27	hr CRO	CM	32-075	89	0	1	0	0	1	0	0	0	39	0	0	0	0.2	0.2	0.3	7	2	27	34	79.4	5	24	2	2	1
+   Diadie Samassékou	18	ml MLI	CM	27-234	1	0	0	0	0	0	0	0	0	4	0	1	0	0.0	0.0	0.0	0	0	2	2	100.0	0	3	0	0	0
+Florian Grillitsch	11	at AUT	CM	28-026	90	0	0	0	0	2	0	0	0	46	3	0	1	0.3	0.3	0.0	2	1	30	38	78.9	2	21	2	2	1
+Grischa Prömel	6	de GER	CM	28-236	90	0	0	0	0	1	0	0	0	30	0	1	1	0.1	0.1	0.1	1	0	15	22	68.2	3	18	0	1	1
+Marius Bülter	21	de GER	WB	30-157	58	0	1	0	0	0	0	0	0	31	0	0	0	0.0	0.0	0.7	1	1	20	25	80.0	4	19	0	1	0
+   Robert Skov	29	dk DEN	WB	27-105	32	1	1	0	0	2	1	0	0	28	0	0	0	0.1	0.1	0.5	1	1	18	24	75.0	0	15	0	0	0
+Ihlas Bebou	9	tg TOG	WB	29-132	90	0	0	0	0	0	0	1	0	47	6	2	3	0.0	0.0	0.0	1	0	24	34	70.6	1	21	3	1	0
+Attila Szalai	41	hu HUN	CB	25-225	90	0	0	0	0	0	0	0	0	63	1	0	1	0.0	0.0	0.3	1	0	47	58	81.0	5	44	0	0	0
+John Brooks	23	us USA	CB	30-217	90	1	0	0	0	2	2	0	0	35	0	2	1	0.9	0.9	0.0	0	0	17	23	73.9	1	13	0	0	0
+Kevin Vogt	22	de GER	CB	31-344	90	0	0	0	0	0	0	0	0	45	1	2	0	0.0	0.0	0.0	1	0	30	39	76.9	1	28	0	0	0
+Oliver Baumann	1	de GER	GK	33-092	90	0	0	0	0	0	0	0	0	42	0	0	0	0.0	0.0	0.0	0	0	26	40	65.0	0	31	0	0	0
+14 Players					990	3	3	0	0	10	5	2	0	468	12	9	9	2.0	2.0	1.9	17	5	282	379	74.4	24	281	8	10	3
+Hoffenheim Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Oliver Baumann	de GER	33-092	90	7	1	6	85.7	1.7	6	19	31.6	32	4	46.9	39.7	7	57.1	46.9	16	2	12.5	2	14.3
+Wolfsburg Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Jonas Wind	23	dk DEN	FW,AM	24-207	90	0	1	0	0	2	0	0	0	30	0	0	0	0.3	0.3	0.5	2	1	17	22	77.3	4	25	0	0	0
+Tiago Tomás	11	pt POR	LW	21-078	67	1	0	0	0	1	1	0	0	31	0	0	1	0.4	0.4	0.0	3	0	16	24	66.7	2	25	3	1	0
+   Kevin Paredes	40	us USA	RW,LW	20-118	23	0	0	0	0	0	0	0	0	18	2	0	1	0.0	0.0	0.2	4	0	11	13	84.6	1	11	2	0	0
+Václav Černý	7	cz CZE	RW	25-320	82	0	0	0	0	3	1	0	0	32	0	1	1	0.2	0.2	0.0	2	0	17	25	68.0	3	25	4	4	2
+   Jakub Kamiński	16	pl POL	LW	21-089	8	0	0	0	0	1	1	0	0	10	0	0	0	0.1	0.1	0.0	1	0	8	9	88.9	3	10	1	0	0
+Mattias Svanberg	32	se SWE	LM,DM	24-240	77	0	0	0	0	1	0	1	0	28	1	0	0	0.0	0.0	0.0	2	0	18	24	75.0	1	19	0	0	0
+   Yannick Gerhardt	31	de GER	DM	29-173	13	0	0	0	0	0	0	0	0	8	0	0	0	0.0	0.0	0.0	0	0	5	6	83.3	0	6	1	1	0
+Maximilian Arnold	27	de GER	CM,DM	29-098	90	0	0	0	0	1	1	0	0	55	1	0	1	0.0	0.0	0.0	1	0	46	50	92.0	1	33	0	0	0
+Lovro Majer	19	hr CRO	RM	25-228	67	0	0	0	0	0	0	0	0	38	1	0	1	0.0	0.0	0.0	2	0	25	34	73.5	5	25	0	1	1
+   Amin Sarr	9	se SWE	FW	22-175	23	0	0	0	0	0	0	0	0	10	0	0	0	0.0	0.0	0.0	0	0	5	7	71.4	0	10	0	0	0
+Rogério	13	br BRA	LB	25-232	90	0	0	0	0	0	0	0	0	88	1	0	0	0.0	0.0	0.0	1	0	75	82	91.5	11	65	4	1	0
+Cedric Zesiger	5	ch SUI	CB	25-070	90	0	0	0	0	0	0	0	0	83	0	0	1	0.0	0.0	0.0	0	0	70	79	88.6	9	66	2	0	0
+Maxence Lacroix	4	fr FRA	CB	23-149	90	0	0	0	0	0	0	0	0	104	2	1	2	0.0	0.0	0.0	0	0	75	86	87.2	5	67	0	0	0
+Joakim Mæhle	21	dk DEN	RB	26-105	67	0	0	0	0	1	1	1	0	52	0	1	0	0.0	0.0	0.2	4	0	38	45	84.4	3	30	2	1	1
+   Ridle Baku	20	de GER	RB	25-147	23	0	0	0	0	3	2	0	0	29	1	1	1	0.2	0.2	0.1	2	0	21	24	87.5	2	25	3	1	1
+Koen Casteels	1	be BEL	GK	31-069	90	0	0	0	0	0	0	0	0	40	0	0	0	0.0	0.0	0.0	1	1	33	39	84.6	0	29	0	0	0
+16 Players					990	1	1	0	0	13	7	2	0	656	9	4	9	1.2	1.2	1.1	25	2	480	569	84.4	50	471	22	10	5
+Wolfsburg Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Koen Casteels	be BEL	31-069	90	5	3	2	40.0	2.3	5	11	45.5	36	6	27.8	33.6	3	33.3	33.7	7	0	0.0	1	15.7
+Shots
+
+Both Squads
+Hoffenheim
+Wolfsburg
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+2	Joakim Mæhle	Club Crest Wolfsburg	0.04	0.03	Saved	11	Head		Václav Černý	Pass (Live)	Lovro Majer	Pass (Live)
+6	Maximilian Arnold	Club Crest Wolfsburg	0.03	0.23	Saved	22	Left Foot		Joakim Mæhle	Pass (Live)	Joakim Mæhle	Take-On
+12	Maximilian Beier	Club Crest Hoffenheim	0.08	0.11	Saved	26	Right Foot		Grischa Prömel	Pass (Live)		
+15	Jonas Wind	Club Crest Wolfsburg	0.04		Off Target	11	Head		Rogério	Pass (Live)	Tiago Tomás	Pass (Live)
+26	Mattias Svanberg	Club Crest Wolfsburg	0.04		Blocked	26	Right Foot	Free kick	Tiago Tomás	Fouled	Lovro Majer	Pass (Live)
+29	Florian Grillitsch	Club Crest Hoffenheim	0.01		Off Target	28	Right Foot		Andrej Kramarić	Pass (Dead)		
+31	John Brooks	Club Crest Hoffenheim	0.16	0.10	Saved	7	Head		Andrej Kramarić	Pass (Dead)	Ihlas Bebou	Pass (Live)
+32	Václav Černý	Club Crest Wolfsburg	0.04		Blocked	17	Left Foot		Mattias Svanberg	Pass (Live)		
+36	Tiago Tomás	Club Crest Wolfsburg	0.41	0.72	Goal	14	Right Foot		Jonas Wind	Pass (Live)	Koen Casteels	Pass (Live)
+45	Andrej Kramarić	Club Crest Hoffenheim	0.16		Blocked	21	Right Foot	Free kick	Maximilian Beier	Fouled	Andrej Kramarić	Pass (Live)
+45+2	John Brooks	Club Crest Hoffenheim	0.71	0.84	Goal	4	Left Foot		Marius Bülter	Pass (Live)		
+45+5	Grischa Prömel	Club Crest Hoffenheim	0.08		Off Target	13	Right Foot		Andrej Kramarić	Pass (Dead)	Wout Weghorst	Fouled
+												
+53	Václav Černý	Club Crest Wolfsburg	0.03	0.06	Saved	23	Left Foot		Joakim Mæhle	Pass (Live)	Mattias Svanberg	Pass (Live)
+55	Florian Grillitsch	Club Crest Hoffenheim	0.30		Woodwork	13	Right Foot	Volley	Attila Szalai	Pass (Live)	Kevin Vogt	Pass (Live)
+57	Václav Černý	Club Crest Wolfsburg	0.14		Off Target	12	Left Foot		Joakim Mæhle	Pass (Live)	Tiago Tomás	Pass (Live)
+60	Maximilian Beier	Club Crest Hoffenheim	0.48	0.85	Goal	13	Left Foot		Robert Skov	Pass (Live)	Andrej Kramarić	Pass (Live)
+67	Robert Skov	Club Crest Hoffenheim	0.01		Off Target	27	Left Foot		Andrej Kramarić	Pass (Dead)	Florian Grillitsch	Pass (Live)
+74	Robert Skov	Club Crest Hoffenheim	0.05	0.43	Goal	17	Left Foot		Andrej Kramarić	Pass (Live)	Florian Grillitsch	Pass (Live)
+83	Ridle Baku	Club Crest Wolfsburg	0.04	0.13	Saved	25	Left Foot		Maximilian Arnold	Pass (Live)	Václav Černý	Pass (Live)
+86	Ridle Baku	Club Crest Wolfsburg	0.02		Off Target	27	Left Foot		Kevin Paredes	Pass (Live)	Ridle Baku	Pass (Live)
+90+1	Jakub Kamiński	Club Crest Wolfsburg	0.05	0.29	Saved	9	Head	Deflected	Ridle Baku	Pass (Live)	Kevin Paredes	Pass (Live)
+90+2	Ridle Baku	Club Crest Wolfsburg	0.11	0.18	Saved	8	Right Foot		Jonas Wind	Pass (Live)	Kevin Paredes	Pass (Live)
+90+4	Jonas Wind	Club Crest Wolfsburg	0.21		Off Target	13	Right Foot		Kevin Paredes	Pass (Live)	Jakub Kamiński	Pass (Live)
+About FBref.com
+
+

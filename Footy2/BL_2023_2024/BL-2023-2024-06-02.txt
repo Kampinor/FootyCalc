@@ -1,0 +1,336 @@
+Stathead FBref is coming soon! Sign up to get notified when it launches.
+Köln vs. Stuttgart Match Report – Saturday September 30, 2023
+Fußball-Bundesliga (Matchweek 6)
+Köln Club Crest
+Köln
+0
+0.7
+0-1-5
+Prev Match
+Manager: Steffen Baumgart
+Captain: Florian Kainz
+Stuttgart Club Crest
+Stuttgart
+2
+2.5
+5-0-1
+Prev Match
+Manager: Sebastian Hoeneß
+Captain: Waldemar Anton
+Saturday September 30, 2023, 15:30 (venue time)
+Fußball-Bundesliga (Matchweek 6)
+Köln vs. Stuttgart
+ 
+Attendance: 50,000
+Venue: RheinEnergieSTADION, Köln
+Officials: Tobias Stieler (Referee) · Christian Gittelmann (AR1) · Mark Borsch (AR2) · Florian Heft (4th) · Sven Jablonski (VAR)
+Deniz Undav · 68’
+Deniz Undav · 88’
+football pitch for squad formations
+33
+2
+6
+8
+9
+15
+16
+18
+21
+27
+29
+1
+4
+7
+8
+11
+17
+18
+21
+24
+27
+37
+Köln (4-1-3-2)
+1	Marvin Schwäbe
+4	Timo Hübers
+7	Dejan Ljubicic
+8	Denis Huseinbasic
+11	Florian Kainz
+17	Leart Paqarada
+18	Rasmus Carstensen
+21	Steffen Tigges
+24	Julian Chabot
+27	Davie Selke
+37	Linton Maina
+Bench
+20	Philipp Pentke
+3	Dominique Heintz
+9	Luca Waldschmidt
+15	Luca Kilian
+22	Jacob Christensen
+23	Sargis Adamyan
+35	Max Finkgräfe
+40	Faride Alidou
+42	Damion Downs
+Stuttgart (4-2-3-1)
+33	Alexander Nübel
+2	Waldemar Anton
+6	Angelo Stiller
+8	Enzo Millot
+9	Serhou Guirassy
+15	Pascal Stenzel
+16	Atakan Karazor
+18	Jamie Leweling
+21	Hiroki Ito
+27	Chris Führich
+29	Anthony Rouault
+Bench
+1	Fabian Bredlow
+7	Maximilian Mittelstädt
+14	Silas Katompa
+17	Genki Haraguchi
+19	Jovan Milošević
+20	Leonidas Stergiou
+23	Dan-Axel Zagadou
+25	Lilian Egloff
+26	Deniz Undav
+Match Summary
+Kick Off
+ 26’
+0:0	
+Dejan Ljubicic
+Köln Club Crest
+Half Time
+ 55’
+0:0	
+Denis Huseinbasic
+Köln Club Crest
+ 61’
+0:0	
+Faride Alidou
+for Steffen Tigges
+Köln Club Crest
+ 61’
+0:0	
+Luca Waldschmidt
+for Florian Kainz
+Köln Club Crest
+ 62’
+0:0	
+Deniz Undav
+for Atakan Karazor
+Stuttgart Club Crest
+ 68’
+0:1	
+Deniz Undav
+Assist: Chris Führich
+Stuttgart Club Crest
+ 73’
+0:1	
+Silas Katompa
+for Jamie Leweling
+Stuttgart Club Crest
+ 76’
+0:1	
+Damion Downs
+for Denis Huseinbasic
+Köln Club Crest
+ 79’
+0:1	
+Enzo Millot
+Stuttgart Club Crest
+ 86’
+0:1	
+Max Finkgräfe
+for Linton Maina
+Köln Club Crest
+ 86’
+0:1	
+Maximilian Mittelstädt
+for Chris Führich
+Stuttgart Club Crest
+ 86’
+0:1	
+Dan-Axel Zagadou
+for Pascal Stenzel
+Stuttgart Club Crest
+ 86’
+0:1	
+Lilian Egloff
+for Enzo Millot
+Stuttgart Club Crest
+ 88’
+0:2	
+Deniz Undav
+Stuttgart Club Crest
+Team Stats
+Köln Köln Club Crest
+	Stuttgart Club Crest
+Stuttgart
+Possession
+40%
+	
+60%
+Passing Accuracy
+325 of 425 — 76%
+	
+87% — 552 of 632
+Shots on Target
+5 of 14 — 36%
+	
+22% — 4 of 18
+Saves
+2 of 4 — 50%
+	
+100% — 5 of 5
+Cards
+	
+Köln
+ 
+Stuttgart
+16
+Fouls
+8
+8
+Corners
+4
+34
+Crosses
+15
+528
+Touches
+754
+Köln
+ 
+Stuttgart
+21
+Tackles
+20
+12
+Interceptions
+11
+13
+Aerials Won
+16
+14
+Clearances
+29
+Köln
+ 
+Stuttgart
+2
+Offsides
+1
+4
+Goal Kicks
+6
+25
+Throw Ins
+25
+46
+Long Balls
+78
+Köln Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Davie Selke	27	de GER	FW	28-253	90	0	0	0	0	2	0	0	0	19	0	0	0	0.1	0.1	0.0	1	0	10	15	66.7	2	8	0	0	0
+Steffen Tigges	21	de GER	FW	25-061	60	0	0	0	0	1	0	0	0	17	0	1	0	0.0	0.0	0.0	0	0	5	13	38.5	0	12	0	2	1
+   Faride Alidou	40	de GER	RM,FW	22-074	30	0	0	0	0	2	2	0	0	14	0	1	0	0.1	0.1	0.0	1	0	7	8	87.5	1	8	0	2	0
+Linton Maina	37	de GER	LM	24-099	85	0	0	0	0	1	0	0	0	47	1	0	1	0.1	0.1	0.3	7	0	31	40	77.5	4	31	10	3	3
+   Max Finkgräfe	35	de GER	LM	19-187	5	0	0	0	0	0	0	0	0	5	0	0	0	0.0	0.0	0.0	1	0	5	5	100.0	0	5	1	2	2
+Florian Kainz	11	at AUT	CM	30-341	60	0	0	0	0	2	0	0	0	49	3	0	0	0.0	0.0	0.0	4	0	33	40	82.5	6	24	3	1	0
+   Luca Waldschmidt	9	de GER	CM	27-134	30	0	0	0	0	2	0	0	0	25	4	1	0	0.1	0.1	0.0	3	0	11	15	73.3	4	15	1	2	0
+Dejan Ljubicic	7	at AUT	RM,DM	25-357	90	0	0	0	0	2	2	1	0	53	4	0	2	0.1	0.1	0.0	2	0	29	38	76.3	6	29	1	4	2
+Denis Huseinbasic	8	de GER	DM	22-089	75	0	0	0	0	0	0	1	0	24	0	2	1	0.0	0.0	0.0	0	0	15	16	93.8	1	11	1	2	0
+   Damion Downs	42	de GER	FW	19-086	15	0	0	0	0	0	0	0	0	6	0	0	0	0.0	0.0	0.0	1	0	4	5	80.0	0	3	0	1	0
+Leart Paqarada	17	xk KVX	LB	28-357	90	0	0	0	0	1	1	0	0	65	3	0	1	0.0	0.0	0.1	4	0	43	57	75.4	4	38	3	1	0
+Julian Chabot	24	de GER	CB	25-230	90	0	0	0	0	0	0	0	0	69	1	2	2	0.0	0.0	0.1	2	0	52	59	88.1	1	36	1	1	0
+Timo Hübers	4	de GER	CB	27-072	90	0	0	0	0	1	0	0	0	52	2	4	3	0.2	0.2	0.0	0	0	27	39	69.2	1	24	0	0	0
+Rasmus Carstensen	18	dk DEN	RB	22-354	90	0	0	0	0	0	0	0	0	56	3	1	0	0.0	0.0	0.0	1	0	30	50	60.0	2	26	2	3	0
+Marvin Schwäbe	1	de GER	GK	28-158	90	0	0	0	0	0	0	0	0	27	0	0	0	0.0	0.0	0.0	0	0	23	25	92.0	0	16	0	0	0
+15 Players					990	0	0	0	0	14	5	2	0	528	21	12	10	0.7	0.7	0.6	27	0	325	425	76.5	32	286	23	24	8
+Köln Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Marvin Schwäbe	de GER	28-158	90	4	2	2	50.0	2.1	1	3	33.3	21	0	14.3	26.1	4	0.0	14.5	12	0	0.0	4	18.8
+Stuttgart Player Stats
+
+Summary
+Passing
+Pass Types
+Defensive Actions
+Possession
+Miscellaneous Stats
+	Performance 	Expected 	SCA 	Passes 	Carries 	Take-Ons
+Player 	# 	Nation 	Pos 	Age 	Min 	Gls 	Ast 	PK 	PKatt 	Sh 	SoT 	CrdY 	CrdR 	Touches 	Tkl 	Int 	Blocks 	xG 	npxG 	xAG 	SCA 	GCA 	Cmp 	Att 	Cmp% 	PrgP 	Carries 	PrgC 	Att 	Succ
+Serhou Guirassy	9	gn GUI	FW	27-202	90	0	0	0	0	3	0	0	0	38	0	0	0	0.7	0.7	0.7	4	0	20	25	80.0	2	25	1	1	0
+Chris Führich	27	de GER	LW	25-264	85	0	1	0	0	2	0	0	0	50	1	2	1	0.1	0.1	0.5	9	2	31	39	79.5	4	29	7	8	5
+   Maximilian Mittelstädt	7	de GER	LW	26-196	5	0	0	0	0	0	0	0	0	10	2	0	0	0.0	0.0	0.0	0	0	4	5	80.0	0	1	0	0	0
+Jamie Leweling	18	de GER	RW	22-216	72	0	0	0	0	0	0	0	0	31	1	0	0	0.0	0.0	0.4	2	0	17	25	68.0	0	19	1	1	0
+   Silas Katompa	14	cd COD	RW	24-359	18	0	0	0	0	2	0	0	0	7	0	0	0	0.4	0.4	0.0	4	1	4	4	100.0	1	7	2	0	0
+Enzo Millot	8	fr FRA	AM,DM	21-075	85	0	0	0	0	2	1	1	0	54	3	1	2	0.1	0.1	0.0	1	0	33	39	84.6	3	37	1	5	2
+   Lilian Egloff	25	de GER	DM	21-041	5	0	0	0	0	0	0	0	0	3	2	0	0	0.0	0.0	0.0	0	0	1	1	100.0	0	0	0	0	0
+Angelo Stiller	6	de GER	DM	22-179	90	0	0	0	0	1	0	0	0	71	3	1	0	0.2	0.2	0.1	4	0	57	64	89.1	5	30	2	1	1
+Atakan Karazor	16	de GER	DM	26-352	61	0	0	0	0	2	0	0	0	43	3	2	1	0.2	0.2	0.0	2	0	26	32	81.3	2	23	0	3	0
+   Deniz Undav	26	de GER	AM	27-073	29	2	0	0	0	2	2	0	0	12	0	0	0	0.9	0.9	0.0	0	0	6	8	75.0	0	5	1	1	1
+Hiroki Ito	21	jp JPN	LB	24-141	90	0	0	0	0	3	1	0	0	99	1	2	1	0.1	0.1	0.0	2	0	74	89	83.1	6	53	3	1	0
+Waldemar Anton	2	de GER	CB	27-072	90	0	0	0	0	0	0	0	0	96	2	1	1	0.0	0.0	0.0	1	0	79	86	91.9	3	62	0	0	0
+Anthony Rouault	29	fr FRA	CB,RB	22-124	90	0	0	0	0	0	0	0	0	83	0	0	2	0.0	0.0	0.0	0	0	68	75	90.7	3	58	0	0	0
+Pascal Stenzel	15	de GER	RB	27-194	85	0	0	0	0	1	0	0	0	92	2	1	1	0.0	0.0	0.3	4	0	74	79	93.7	10	47	2	0	0
+   Dan-Axel Zagadou	23	fr FRA	CB,RB	24-119	5	0	0	0	0	0	0	0	0	10	0	1	0	0.0	0.0	0.0	0	0	8	8	100.0	0	7	0	0	0
+Alexander Nübel	33	de GER	GK	27-000	90	0	0	0	0	0	0	0	0	55	0	0	0	0.0	0.0	0.0	0	0	50	53	94.3	0	34	0	0	0
+16 Players					990	2	1	0	0	18	4	1	0	754	20	11	9	2.7	2.7	2.0	33	3	552	632	87.3	39	437	20	21	9
+Stuttgart Goalkeeper Stats
+
+	Shot Stopping 	Launched 	Passes 	Goal Kicks 	Crosses 	Sweeper
+Player 	Nation 	Age 	Min 	SoTA 	GA 	Saves 	Save% 	PSxG 	Cmp 	Att 	Cmp% 	Att 	Thr 	Launch% 	AvgLen 	Att 	Launch% 	AvgLen 	Opp 	Stp 	Stp% 	#OPA 	AvgDist
+Alexander Nübel	de GER	27-000	90	5	0	5	100.0	0.5	6	7	85.7	47	11	6.4	22.9	6	66.7	46.2	21	3	14.3	0	5.3
+Shots
+
+Both Squads
+Köln
+Stuttgart
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+7	Serhou Guirassy	Club Crest Stuttgart	0.20		Woodwork	6	Head		Chris Führich	Pass (Dead)		
+20	Hiroki Ito	Club Crest Stuttgart	0.01		Blocked	34	Left Foot		Angelo Stiller	Pass (Live)	Atakan Karazor	Pass (Live)
+23	Hiroki Ito	Club Crest Stuttgart	0.07	0.29	Saved	21	Right Foot		Serhou Guirassy	Pass (Live)	Enzo Millot	Pass (Live)
+23	Atakan Karazor	Club Crest Stuttgart	0.18		Off Target	9	Left Foot	Volley	Pascal Stenzel	Pass (Live)	Jamie Leweling	Pass (Live)
+24	Davie Selke	Club Crest Köln	0.08		Off Target	22	Right Foot		Leart Paqarada	Pass (Live)	Linton Maina	Pass (Live)
+31	Dejan Ljubicic	Club Crest Köln	0.05	0.31	Saved	24	Right Foot		Davie Selke	Pass (Live)	Linton Maina	Pass (Live)
+32	Linton Maina	Club Crest Köln	0.06		Blocked	14	Left Foot		Julian Chabot	Pass (Live)	Dejan Ljubicic	Shot
+35	Florian Kainz	Club Crest Köln	0.01		Off Target	29	Left Foot		Dejan Ljubicic	Pass (Live)	Florian Kainz	Pass (Dead)
+39	Atakan Karazor	Club Crest Stuttgart	0.03		Off Target	23	Left Foot	Volley	Pascal Stenzel	Pass (Live)	Chris Führich	Pass (Live)
+42	Serhou Guirassy	Club Crest Stuttgart	0.42		Off Target	5	Head		Jamie Leweling	Pass (Live)	Pascal Stenzel	Pass (Live)
+												
+47	Steffen Tigges	Club Crest Köln	0.04		Blocked	21	Left Foot		Linton Maina	Pass (Live)	Florian Kainz	Pass (Live)
+51	Serhou Guirassy	Club Crest Stuttgart	0.03		Off Target	12	Head		Hiroki Ito	Pass (Live)	Waldemar Anton	Pass (Live)
+53	Chris Führich	Club Crest Stuttgart	0.09		Off Target	9	Right Foot	Volley	Pascal Stenzel	Pass (Live)	Atakan Karazor	Pass (Live)
+57	Hiroki Ito	Club Crest Stuttgart	0.02		Blocked	25	Left Foot		Angelo Stiller	Pass (Live)	Chris Führich	Pass (Live)
+57	Enzo Millot	Club Crest Stuttgart	0.12	0.15	Saved	13	Left Foot		Serhou Guirassy	Pass (Live)	Hiroki Ito	Shot
+58	Florian Kainz	Club Crest Köln	0.04		Off Target	17	Right Foot	Volley	Florian Kainz	Pass (Live)	Leart Paqarada	Pass (Dead)
+60	Leart Paqarada	Club Crest Köln	0.02	0.04	Saved	30	Left Foot	Volley	Rasmus Carstensen	Pass (Live)	Florian Kainz	Pass (Live)
+67	Faride Alidou	Club Crest Köln	0.10	0.04	Saved	15	Right Foot		Linton Maina	Pass (Live)	Julian Chabot	Pass (Live)
+68	Deniz Undav	Club Crest Stuttgart	0.31	0.72	Goal	12	Right Foot		Chris Führich	Pass (Live)	Chris Führich	Take-On
+	SCA 1 	SCA 2
+Minute 	Player 	Squad 	xG 	PSxG 	Outcome 	Distance 	Body Part 	Notes 	Player 	Event 	Player 	Event
+72	Luca Waldschmidt	Club Crest Köln	0.06		Off Target	11	Head		Leart Paqarada	Pass (Live)	Linton Maina	Pass (Dead)
+73	Luca Waldschmidt	Club Crest Köln	0.04		Off Target	19	Left Foot		Luca Waldschmidt	Interception		
+75	Silas Katompa	Club Crest Stuttgart	0.04		Blocked	14	Right Foot	Volley	Chris Führich	Fouled	Angelo Stiller	Pass (Live)
+76	Chris Führich	Club Crest Stuttgart	0.01		Off Target	26	Right Foot	Volley	Silas Katompa	Shot		
+76	Enzo Millot	Club Crest Stuttgart	0.03		Off Target	23	Left Foot		Angelo Stiller	Pass (Live)	Chris Führich	Shot
+79	Pascal Stenzel	Club Crest Stuttgart	0.02		Off Target	30	Right Foot		Chris Führich	Pass (Live)	Chris Führich	Take-On
+82	Timo Hübers	Club Crest Köln	0.16		Blocked	4	Right Foot		Linton Maina	Pass (Live)	Leart Paqarada	Pass (Live)
+84	Dejan Ljubicic	Club Crest Köln	0.02	0.08	Saved	26	Right Foot		Linton Maina	Pass (Live)	Damion Downs	Pass (Live)
+84	Faride Alidou	Club Crest Köln	0.04	0.03	Saved	17	Right Foot		Luca Waldschmidt	Pass (Live)	Faride Alidou	Pass (Live)
+88	Silas Katompa	Club Crest Stuttgart	0.35		Woodwork	13	Right Foot		Serhou Guirassy	Pass (Live)	Silas Katompa	Pass (Live)
+88	Deniz Undav	Club Crest Stuttgart	0.63	0.92	Goal	4	Left Foot	Deflected	Silas Katompa	Shot		
+90+1	Angelo Stiller	Club Crest Stuttgart	0.18		Off Target	15	Left Foot		Serhou Guirassy	Pass (Live)	Silas Katompa	Pass (Live)
+90+2	Davie Selke	Club Crest Köln	0.04		Off Target	13	Head		Max Finkgräfe	Pass (Live)	Luca Waldschmidt	Pass (Live)

@@ -48,3 +48,14 @@ INSERT INTO Results Values (42,10,3,0,0,10,3,0,0,0.8,0.710,10,5,0,0);
 INSERT INTO Results Values (43,13,9,0,0,13,9,2,0,2.1,1.513,13,5,0,0);
 INSERT INTO Results Values (44,6,19,0,0,6,19,3,1,2.8,0.56,6,5,0,0);
 INSERT INTO Results Values (45,0,5,0,0,0,5,0,0,0.6,0.60,0,5,0,0);
+
+--BL 06 23/24
+INSERT INTO Results Values (46,11,2,0,0,11,2,0,1,1.2,1.611,11,6,0,1);
+INSERT INTO Results Values (47,9,12,0,0,9,12,0,1,0.7,2.79,9,6,0,0);
+INSERT INTO Results Values (48,19,4,0,0,19,4,0,0,0.8,2.219,19,6,0,0);
+INSERT INTO Results Values (49,7,0,0,0,7,0,0,0,2.4,1.37,7,6,0,1);
+INSERT INTO Results Values (50,14,10,0,0,14,10,1,3,1.7,3.114,14,6,0,0);
+INSERT INTO Results Values (51,8,6,0,0,8,6,0,1,0.5,1.18,8,6,0,0);
+INSERT INTO Results Values (52,3,1,0,0,3,1,2,1,0.7,1.63,3,6,0,0);
+INSERT INTO Results Values (53,18,13,0,0,18,13,3,2,1.6,1.518,18,6,0,0);
+INSERT INTO Results Values (54,5,15,0,0,5,15,1,0,0.2,0.85,5,6,0,0);

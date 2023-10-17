@@ -59,3 +59,13 @@ INSERT INTO Results Values (51,8,6,0,0,8,6,0,1,0.5,1.18,8,6,0,0);
 INSERT INTO Results Values (52,3,1,0,0,3,1,2,1,0.7,1.63,3,6,0,0);
 INSERT INTO Results Values (53,18,13,0,0,18,13,3,2,1.6,1.518,18,6,0,0);
 INSERT INTO Results Values (54,5,15,0,0,5,15,1,0,0.2,0.85,5,6,0,0);
+
+INSERT INTO Results Values (55,10,8,0,0,10,8,2,2,2.4,0.810,10,7,0,0);
+INSERT INTO Results Values (56,3,14,0,0,3,14,0,0,0.9,0.43,3,7,0,0);
+INSERT INTO Results Values (57,2,4,0,0,2,4,2,1,1.6,0.62,2,7,0,0);
+INSERT INTO Results Values (58,15,18,0,0,15,18,0,0,0.9,1.015,15,7,0,0);
+INSERT INTO Results Values (59,12,7,0,0,12,7,1,0,1.9,1.212,12,7,0,0);
+INSERT INTO Results Values (60,13,11,0,0,13,11,2,2,0.8,1.913,13,7,0,0);
+INSERT INTO Results Values (61,6,9,0,0,6,9,3,0,3.3,1.46,6,7,0,0);
+INSERT INTO Results Values (62,1,5,0,0,1,5,3,0,2.4,0.11,1,7,0,0);
+INSERT INTO Results Values (63,0,19,0,0,0,19,1,0,1.1,1.20,0,7,0,0);

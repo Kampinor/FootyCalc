@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -22,6 +23,7 @@ double getKumValue(double dMean,int iMax);
 //double eTest = exp(1);
 vector <double> getp_Over_Under(double dOffH, double dOffA);
 void getq_Over_Under(vector <double> dToreIngKum);
+void berechneTorP(double dOff, double dTore[], double dToreKum[], int size);
 tAsianHand get_1X2_Q(double dOffH,double dOffA);
 
 
@@ -51,19 +53,19 @@ int main()
 
   vector <double>  dToreIng,dToreIngKum;
 
- cout << "Under/Over:" << endl;
+cout << "Under/Over:" << endl;
  dToreIngKum = getp_Over_Under(dOffH,dOffA);
  getq_Over_Under(dToreIngKum);
 
  tAsianHand AktDaten;
-
-// get_1X2_Q(dOffH,dOffA,AktDaten);
- //AktDaten = get_1X2_Q(dOffH,dOffA);
-// cout << "als struct" << endl;
-// cout << AktDaten.qSieg << "/" << AktDaten.qRemis << "/" << AktDaten.qNied << endl;
-// cout << "DNB:" << AktDaten.qDNB1 << "/" << AktDaten.qDNB2 << endl;
-// cout << "AHC1 -1.5: " << AktDaten.qAHC_1_15 << endl;
-// cout << "AHC2 -1.5: " << AktDaten.qAHC_1_15 << endl;
+ 
+ 
+ AktDaten = get_1X2_Q(dOffH,dOffA);
+cout << "als struct" << endl;
+cout << AktDaten.qSieg << "/" << AktDaten.qRemis << "/" << AktDaten.qNied << endl;
+cout << "DNB:" << AktDaten.qDNB1 << "/" << AktDaten.qDNB2 << endl;
+cout << "AHC1 -1.5: " << AktDaten.qAHC_1_15 << endl;
+cout << "AHC2 -1.5: " << AktDaten.qAHC_1_15 << endl;
 
   return 0;
 }
@@ -106,8 +108,13 @@ double poisson_probability(double dMean,int iAnz) {
 
 }
 
-// kumulierte Poisson Wahrscheinlichkeit für ein Ereignis
-// z.B. 1 tor=1:0,0:1 
+//***
+//Brief: Berechnung der kumulierten Warscheinlichkeit, dass bis zu iMax Tore fallen
+//Detail: Errechnet die Poisson-Warscheinlichkeit jeder Toranzahl und Addiert alle zusammen.
+//Par[IN]dMean: Durchschnitt
+//Par[IN]iMax: maximale Anzahl an Toren 
+//Return: Kummulierte Warscheinlichkeit z.B. 1 tor=1:0,0:1 
+//***
 
 double getKumValue(double dMean,int iMax)	{
 	double dProb =0;
@@ -119,8 +126,14 @@ double getKumValue(double dMean,int iMax)	{
   	return dProb;
 
   }
-
-//?
+  
+//***
+//Brief: Berechnung der Over-Under Warscheinlichkeit
+//Detail: Errechnet die kummulierten Poisson-Warscheinlichkeiten für 0,1 ...6 Tore im Spiel
+//Par[IN]dOffH: Durchschnittlich erzielte Tore Heim
+//Par[IN]dOffA: Durchschnittlich erzielte Tore Gast 
+//Return: Vector mit den Warscheinlichkeiten für 0-6 Tore
+//***  
 
 vector <double> getp_Over_Under(double dOffH, double dOffA) {
 
@@ -145,8 +158,14 @@ dToreIngKum.push_back(getKumValue(dOffA+dOffH,i));
   }
   
   
- //over under quoten aus Wahrscheinlichkeiten ermitteln  
+//***
+//Brief: Berechnung der Quoten für Over-Under 
+//Detail: Errechnet aus den kummulierten Poisson-Warscheinlichkeiten für 0,1 ...6 Tore im Spiel die entsprechende Quote
+//Par[IN]dToreIngKum: Vector mit den Warscheinlichkeiten für 0-6 Tore
+//Return: Textoutput der Warscheinlichkeiten
+//***
 
+  
 void getq_Over_Under(vector <double> dToreIngKum) {
 
 vector <double> dAktOver,dAktUnder,dUndGanz,dOverGanz;
@@ -161,4 +180,110 @@ for (int i =0;i<6;i++) {
 	cout << "/ Over " << to_string(i) << ".5: " << dAktOver[i] << endl;
 
 
+}
+
+}
+
+void berechneTorP(double dOff, double dTore[], double dToreKum[], int size) {
+    for (int i = 0; i < size; i++) {
+        if (i < size - 1) {
+            dTore[i] = poisson_probability(dOff, i);
+            dToreKum[i] = getKumValue(dOff, i);
+        } else {
+            dTore[i] = 1 - dToreKum[i - 1];
+            dToreKum[i] = dTore[i];
+        }
+    }
+}
+
+//***
+//Brief: Berechnung der 3Weg Warscheinlichkeit
+//Detail: Errechnet die kummulierten Poisson-Warscheinlichkeiten für 0,1 ...6 Tore im Spiel
+//Par[IN]dOffH: Durchschnittlich erzielte Tore Heim
+//Par[IN]dOffA: Durchschnittlich erzielte Tore Gast 
+//Return: Vector mit den Warscheinlichkeiten für 0-6 Tore
+//***  
+
+tAsianHand get_1X2_Q(double dOffH,double dOffA) {
+ tAsianHand AktDaten;
+   //Wahrscheinlichkeit Tore jeTeam/Tabelle nachbauen
+
+ double dToreH[10], dToreHKum[10];
+ berechneTorP(dOffH, dToreH, dToreHKum, 10);
+    
+ double dToreA[10], dToreAKum[10];
+ berechneTorP(dOffA, dToreA, dToreAKum, 10);
+
+    //for (int i = 0; i < 10; i++) {
+    //    cout << "p= " << to_string(dToreA[i]) << endl;
+    //    cout << "kum= " << to_string(dToreAKum[i]) << endl;
+    //}
+ 
+
+
+  //Berechning Standard 1x2
+  double dSieg,dRemis,dNied;
+  double dP_AHC_1_1,dP_AHC_1_2;
+  double dP_AHC_0,dP_AHC_1;
+  double dP_AHC_0_1,dP_AHC_0_2;
+
+  for (int i=0;i<9;i++) {
+  	int iAktAnzTore = i;
+  	for (int z=0;z<9;z++) {
+  		int iAnzG = z;
+  		if (i > z) {
+  			dSieg = dSieg + dToreH[i] * dToreA[z];
+  			//cout << dSieg << endl;
+  		}
+  		if (i-1 > z) { // AHC 1 -1.5
+  				dP_AHC_0_1 = dP_AHC_0_1 + dToreH[i] * dToreA[z];
+  			}
+  		if (i+1 > z) { // 1x
+  				dP_AHC_1_1 = dP_AHC_1_1 + dToreH[i] * dToreA[z];
+  			}
+  		if (i == z) {
+  			dRemis = dRemis + dToreH[i] * dToreA[z];
+  		}
+  		if (i < z) {
+  			dNied = dNied + dToreH[i] * dToreA[z];
+  		}
+  		if ( z-1 > i) { //AHC 2 -1.5
+  				dP_AHC_0_2 = dP_AHC_0_2 + dToreH[i] * dToreA[z];
+  			}
+  		if (z+1 > i) { // x2
+  				dP_AHC_1_2 = dP_AHC_1_2 + dToreH[i] * dToreA[z];
+  			}
+  	}
+  }
+
+  //+ 0.5 1 ->1X
+  dP_AHC_0 = dSieg + dRemis;
+  //cout << 1/dP_AHC_0 << endl;
+  // +0.5 2 ->X2
+  dP_AHC_1 = dNied + dRemis;
+  //cout << 1/dP_AHC_1 << endl;
+
+
+
+  //1x2 quoten errechnen
+  //cout << 1/dSieg << "/" << 1/dRemis << "/" << 1/dNied << endl;
+  //cout << 1/dP_AHC_0_1 << endl;
+  //cout << 1/dP_AHC_0_2 << endl;
+  //cout << 1/dP_AHC_1_2 << endl;
+     //cout << dSieg + dRemis + dNied << endl;
+
+  //dnb errechen
+  double dNenn,dDNB1,dDNB2;
+  dNenn = dSieg + dNied;
+  dDNB1 = dSieg/dNenn;
+  dDNB2 = dNied/dNenn;
+  //cout << 1/dDNB1 << "/" << 1/dDNB2 << endl;
+  AktDaten.qSieg = 1/dSieg;
+  AktDaten.qRemis = 1/dRemis;
+  AktDaten.qNied = 1/dNied;
+  AktDaten.qDNB1 = 1/dDNB1;
+  AktDaten.qDNB2 = 1/dDNB2;
+  AktDaten.qAHC_1_15 = 1/dP_AHC_0_1;
+  AktDaten.qAHC_2_15 = 1/dP_AHC_0_2;
+    return AktDaten;
 }

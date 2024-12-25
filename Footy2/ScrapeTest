@@ -1,0 +1,29 @@
+import requests
+from bs4 import BeautifulSoup
+
+#url ='https://fbref.com/de/spiele/ee0af24d/Koln-Hamburger-SV-2-August-2024-2-Bundesliga'
+url='https://fbref.com/de/wettbewerbe/33/spielplan/2-Bundesliga-Punkte-und-Eckdaten'
+#url='https://www.betano.de/quoten/borussia-monchengladbach-bayer-04-leverkusen/51651637/'
+#url='https://understat.com/match/27746'
+response = requests.get(url)
+soup = BeautifulSoup(response.content, 'html.parser')
+title = soup.title.string
+
+print(f'Titel der Seite: {title}')
+
+# Annahme: Die Tabelle ist die erste auf der Seite
+table = soup.find('table')
+for row in table.find_all('tr'):
+    columns = row.find_all('td')
+    for col in columns:
+        print(col.text.strip())  # Zeige den Text der Zelle an
+
+# Find all tables on the page
+#tables = soup.find_all('table')
+
+#for table_index, table in enumerate(tables):
+#    print(f"Table {table_index + 1}:")
+#    for row in table.find_all('tr'):
+#        columns = row.find_all('td')
+ #       for col in columns:
+#            print(col.text.strip())  # Show the text of the cell

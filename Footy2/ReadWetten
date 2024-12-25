@@ -1,0 +1,97 @@
+def getTipps(strTeamH, strTeamA, dWH,dWU,dWA,dWBTS,dWOTS,dWOver,dWUnder):
+    qHS = berechne_quote(dWH)
+    #print(dWH)
+    qU = berechne_quote(dWU)
+    #print(dWU)
+    qAS = berechne_quote(dWA)
+    #print(dWA)
+    q1X= berechne_quote(dWH+dWU)
+    qX2= berechne_quote(dWA+dWU)
+    qBTS=berechne_quote(dWBTS)
+    qOTS=berechne_quote(dWOTS)
+    qOver=berechne_quote(dWOver)
+    qUnder=berechne_quote(dWUnder)
+    qDnb1=berechne_quote(dWH/(100-dWU)*100)
+    qDnb2=berechne_quote(dWA/(100-dWU)*100)
+    
+    print("Zu erwartene Quoten für",strTeamH,":",strTeamA)
+    print(round(qHS,3),"|",round(qU,3),"|",round(qAS,3),"1X:",round(q1X,3),"X2",round(qX2,3))
+    print("DNB1:",round(qDnb1,3),"DNB2",round(qDnb2,3))
+    print("BTS:",round(qBTS,3),"OTS",round(qOTS,3),"Over2,5:",round(qOver,3),"Under2,5",round(qUnder,3))
+    
+    #print(f"{qHS}")
+
+def berechne_quote(wert: float) -> float:
+    dQuote = 1 / (wert / 100)
+    return dQuote  	
+
+def berechneDNB(W1:float,W2:float):
+	dQuote=W1/(100-W2)*100
+	dQuote=1/(dQuote/100)
+	return dQuote
+
+
+with open("test.txt", "r") as datei:
+    zeilen = [zeile.rstrip() for zeile in datei]
+
+# Ausgabe der Zeilen und Zählen der gelesenen Zeilen
+schrittweite = 1
+j = 0
+strTeamH = strTeamA = ""
+dWH = 0.0
+
+for i in range(0, len(zeilen), schrittweite):
+    j += 1
+    if j == 27:
+        getTipps(strTeamH, strTeamA, dWH,dWU,dWA,dWBTS,dWOTS,dWOver,dWUnder)
+        j = 0
+    if j == 1:
+        strTeamH = zeilen[i]
+    if j == 5:
+        strTeamA = zeilen[i]
+    if j == 11:
+       #print(zeilen[i])
+       if zeilen[i + 1] == "Heim":
+         strWH = zeilen[i]
+         dWH = float(strWH[0:len(strWH) - 1])
+       elif zeilen[i + 1] == "Auswärts":
+          strWA = zeilen[i]
+          dWA = float(strWA[0:len(strWA) - 1])
+       elif zeilen[i+1]=="Unentschieden":
+          strWU = zeilen[i]
+          dWU = float(strWU[0:len(strWU) - 1])
+    if j == 13:
+       #print(zeilen[i])
+       if zeilen[i + 1] == "Heim":
+           strWH = zeilen[i]
+           dWH = float(strWH[0:len(strWH) - 1])
+       elif zeilen[i + 1] == "Auswärts":
+           strWA = zeilen[i]
+           dWA = float(strWA[0:len(strWA) - 1])
+       elif zeilen[i+1]=="Unentschieden":
+           strWU = zeilen[i]
+           dWU = float(strWU[0:len(strWU) - 1])
+    if j == 15:
+       #print(zeilen[i])     
+       if zeilen[i + 1] == "Heim":
+           strWH = zeilen[i]
+           dWH = float(strWH[0:len(strWH) - 1])
+       elif zeilen[i + 1] == "Auswärts":
+           strWA = zeilen[i]
+           dWA = float(strWA[0:len(strWA) - 1])
+       elif zeilen[i+1]=="Unentschieden":
+           strWU = zeilen[i]
+           dWU = float(strWU[0:len(strWU) - 1])
+    if j == 18:
+        strWBTS = zeilen[i]
+        dWBTS = float(strWBTS[0:len(strWBTS) - 1])
+    if j == 20:
+        strWOTS = zeilen[i]
+        dWOTS = float(strWOTS[0:len(strWOTS) - 1])
+    if j == 23:
+        strWOver = zeilen[i]
+        dWOver = float(strWOver[0:len(strWOver) - 1])
+    if j == 25:
+        strWUnder = zeilen[i]
+        dWUnder = float(strWUnder[0:len(strWUnder) - 1])
+        #print(f"{dWUnder}")

@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import csv
 
 #url ='https://fbref.com/de/spiele/ee0af24d/Koln-Hamburger-SV-2-August-2024-2-Bundesliga'
 url='https://fbref.com/de/wettbewerbe/33/spielplan/2-Bundesliga-Punkte-und-Eckdaten'
@@ -11,12 +12,23 @@ title = soup.title.string
 
 print(f'Titel der Seite: {title}')
 
+# Öffne eine neue CSV-Datei zum Schreiben
+with open('2_bundesliga_data_neu.csv', 'w+', newline='', encoding='utf-8') as csvfile:
+    #fieldnames = ['Wo', 'Tag','Datum','Uhrzeit','Heim','xG','Ergebnis','xG','Auswärts','Zuschauerzahl','Spielort','Schiedsrichter','Spielbericht']	
+    writer = csv.writer(csvfile)
+    #writer.writerow(fieldnames)
+
 # Annahme: Die Tabelle ist die erste auf der Seite
-table = soup.find('table')
-for row in table.find_all('tr'):
-    columns = row.find_all('td')
-    for col in columns:
-        print(col.text.strip())  # Zeige den Text der Zelle an
+    table = soup.find('table')
+    for row in table.find_all('tr'):
+          columns = row.find_all('td')
+          row_data = [col.text.strip() for col in columns]
+          writer.writerow(row_data)
+
+print("Daten wurden in eine neue CSV-Datei geschrieben.")
+    #print("game")
+    #for col in columns:
+        #print(col.text.strip())  # Zeige den Text der Zelle an
 
 # Find all tables on the page
 #tables = soup.find_all('table')

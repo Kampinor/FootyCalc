@@ -23,7 +23,16 @@ with open('2_bundesliga_data_neu.csv', 'w+', newline='', encoding='utf-8') as cs
     for row in table.find_all('tr'):
           columns = row.find_all('td')
           row_data = [col.text.strip() for col in columns]
-          writer.writerow(row_data)
+          filled_cells = 0
+
+          for col in columns:
+              if col.text.strip():
+                filled_cells += 1
+
+    # Passe die Bedingung an, je nachdem, wie du leere Zeilen definierst
+          if filled_cells > 0:  # Wenn mindestens eine Zelle gefüllt ist
+          #print(row_data)
+                writer.writerow(row_data)
 
 print("Daten wurden in eine neue CSV-Datei geschrieben.")
     #print("game")

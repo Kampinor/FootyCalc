@@ -22,12 +22,23 @@ with open('2_bundesliga_data_neu.csv', 'w+', newline='', encoding='utf-8') as cs
     table = soup.find('table')
     for row in table.find_all('tr'):
           columns = row.find_all('td')
-          row_data = [col.text.strip() for col in columns]
+          row_data=[]
+          #row_data = [col.text.strip() for col in columns]
           filled_cells = 0
+          iCol=0
 
           for col in columns:
               if col.text.strip():
                 filled_cells += 1
+              cell_text = col.text.strip()
+              #if '-' in cell_text:
+              if iCol==5:
+                split_data = cell_text.split("–")
+                print(split_data)
+                row_data.extend(split_data)
+              else:
+                row_data.append(cell_text)  
+              iCol+=1  
 
     # Passe die Bedingung an, je nachdem, wie du leere Zeilen definierst
           if filled_cells > 0:  # Wenn mindestens eine Zelle gefüllt ist

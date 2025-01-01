@@ -2,10 +2,29 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-#url ='https://fbref.com/de/spiele/ee0af24d/Koln-Hamburger-SV-2-August-2024-2-Bundesliga'
+def vergleiche_und_ersetze(eingabe_string, vergleichsliste, ersetzungswerte):
+    """
+    Vergleicht einen Eingabestring mit einer Liste von Werten und gibt einen entsprechenden Ersatzwert zurück.
+
+    Args:
+        eingabe_string (str): Der zu vergleichende String.
+        vergleichsliste (list): Eine Liste von Strings, mit denen der Eingabestring verglichen wird.
+        ersetzungswerte (list): Eine Liste von Strings, die als Ersatzwerte dienen.
+
+    Returns:
+        str: Der entsprechende Ersatzwert oder der ursprüngliche Eingabestring, falls kein Match gefunden wurde.
+    """
+
+    for i, vergleichswert in enumerate(vergleichsliste):
+        if eingabe_string == vergleichswert:
+            return ersetzungswerte[i]
+    return eingabe_string
+
+# Neue Listen für Fußballmannschaften und Abkürzungen
+mannschaften = ["Kaiserslautern", "Köln", "Hannover 96", "Hertha BSC", "Jahn R'burg", "Darmstadt 98", "Nürnberg", "Braunschweig", "Hamburger SV", "Greuther Fürth", "Paderborn 07", "Karlsruher", "Preußen Münster", "Ulm", "Düsseldorf", "Magdeburg", "Elversberg", "Schalke 04"]
+abkuerzungen = ["FCK", "KOL", "H96", "HER", "REG", "SVD", "FCN", "BRA", "HSV", "FUR", "PAD", "KSC", "MUN", "ULM", "DUS", "MAG", "ELV", "S04"]
+
 url='https://fbref.com/de/wettbewerbe/33/spielplan/2-Bundesliga-Punkte-und-Eckdaten'
-#url='https://www.betano.de/quoten/borussia-monchengladbach-bayer-04-leverkusen/51651637/'
-#url='https://understat.com/match/27746'
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 title = soup.title.string
@@ -31,14 +50,20 @@ with open('2_bundesliga_data_neu.csv', 'w+', newline='', encoding='utf-8') as cs
               if col.text.strip():
                 filled_cells += 1
               cell_text = col.text.strip()
+              #print(cell_text)
               #if '-' in cell_text:
               if iCol==5:
                 split_data = cell_text.split("–")
-                print(split_data)
+                #print(split_data)
                 row_data.extend(split_data)
+              elif iCol ==3 or 8:
+                row_data.append(vergleiche_und_ersetze(cell_text,mannschaften, abkuerzungen))	
               else:
-                row_data.append(cell_text)  
-              iCol+=1  
+                if cell_text !='Spielbericht':
+                   #print(cell_text)
+                   row_data.append(cell_text)  
+              iCol+=1
+              #print(iCol)  
 
     # Passe die Bedingung an, je nachdem, wie du leere Zeilen definierst
           if filled_cells > 0:  # Wenn mindestens eine Zelle gefüllt ist
@@ -46,9 +71,6 @@ with open('2_bundesliga_data_neu.csv', 'w+', newline='', encoding='utf-8') as cs
                 writer.writerow(row_data)
 
 print("Daten wurden in eine neue CSV-Datei geschrieben.")
-    #print("game")
-    #for col in columns:
-        #print(col.text.strip())  # Zeige den Text der Zelle an
 
 # Find all tables on the page
 #tables = soup.find_all('table')

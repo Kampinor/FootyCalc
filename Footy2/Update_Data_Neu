@@ -1,0 +1,88 @@
+import csv
+import os
+import re
+
+# === Pfade ===
+#csv_path = "spiele.csv"           # Ziel-Datei (initial leer)
+#csv_path = "DATA_2BL (2).csv"
+csv_path = "DATA_3L.csv"      
+textfile_path = "testneu.txt"     # Textdatei mit neuen Spieldaten
+
+# === Bestehende CSV lesen (falls vorhanden) ===
+existing_games = set()
+
+if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+    with open(csv_path, newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            key = (row['Datum'].strip(), row['Heimteam'].strip(), row['Gastteam'].strip())
+            existing_games.add(key)
+
+# === Neue Daten aus Textdatei einlesen ===
+new_entries = []
+
+with open(textfile_path, 'r', encoding='utf-8') as f:
+    lines = [line.strip() for line in f.readlines() if line.strip()]
+
+i = 0
+while i < len(lines):
+    if re.match(r"\d{1,2}/\d{1,2} \| \d+-\d+", lines[i]):
+        date_score = lines[i]
+        match_line = lines[i + 1]
+        xg_home = lines[i + 2]
+        xg_away = lines[i + 3]
+
+        # Überspringen, wenn xG-Werte fehlen
+        if xg_home == "N/A" or xg_away == "N/A":
+            i += 5
+            continue
+
+        # Datum & Tore (Datum nur als Text übernehmen)
+        date_part, score_part = date_score.split('|')
+        date_str = date_part.strip()
+
+        try:
+            goals_home, goals_away = map(int, score_part.strip().split('-'))
+            xg_home_val = float(xg_home)
+            xg_away_val = float(xg_away)
+        except ValueError:
+            i += 5
+            continue
+
+        # Teams
+        if "vs" not in match_line:
+            i += 5
+            continue
+        home_team, away_team = map(str.strip, match_line.split("vs"))
+
+        key = (date_str, home_team, away_team)
+        if key not in existing_games:
+            new_entries.append({
+                'Datum': date_str,
+                'Heimteam': home_team,
+                'Gastteam': away_team,
+                'Heimtore': goals_home,
+                'Gastore': goals_away,
+                'Heim XGoals': xg_home_val,
+                'Gast XGoals': xg_away_val
+            })
+
+        i += 5
+    else:
+        i += 1
+
+# === Daten schreiben ===
+fieldnames = ['Datum', 'Heimteam', 'Gastteam', 'Heimtore', 'Gastore', 'Heim XGoals', 'Gast XGoals']
+file_exists = os.path.exists(csv_path)
+write_header = not file_exists or os.path.getsize(csv_path) == 0
+
+with open(csv_path, 'a', newline='', encoding='utf-8') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    if write_header:
+        writer.writeheader()
+
+    for row in new_entries:
+        writer.writerow(row)
+
+print(f"{len(new_entries)} neue Spiele wurden in die Datei '{csv_path}' geschrieben.")
